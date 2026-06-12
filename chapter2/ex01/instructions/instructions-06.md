@@ -1,0 +1,1 @@
+**Task #06:** Nest the provided semantic elements in the `body` element to the **template.html** file

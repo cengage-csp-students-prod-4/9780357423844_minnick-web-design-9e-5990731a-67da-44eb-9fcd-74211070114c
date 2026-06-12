@@ -1,0 +1,2 @@
+## Task 06
+Open your */rescue*  folder and create a new subfolder named **scripts**. Create a new JavaScript file named **script.js**. Add a multi-line comment to the start of the file that includes **your name** (firstname lastname), **file name**, and **today’s date** (MM/DD/YYYY).

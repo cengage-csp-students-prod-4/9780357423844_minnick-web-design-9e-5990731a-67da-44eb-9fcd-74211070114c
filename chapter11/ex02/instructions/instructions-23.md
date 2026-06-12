@@ -1,0 +1,1 @@
+**Task #23:** Add the tablet style rules for the `footer`area

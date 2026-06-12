@@ -1,0 +1,2 @@
+## Task 02
+Nest an `img` element within the header element below the heading element. Use *images/web-design.jpg* for the value of the `src` attribute. Add an `alt` attribute with a value of **computer with the text web design**. Add a `height` attribute with a value of **326px** and add a `width` attribute with a value of **450px**. 

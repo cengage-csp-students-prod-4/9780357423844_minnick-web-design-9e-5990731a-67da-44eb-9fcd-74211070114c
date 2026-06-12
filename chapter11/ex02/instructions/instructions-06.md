@@ -1,0 +1,1 @@
+**Task #06:** Update the `title` of the *partnership.html* page

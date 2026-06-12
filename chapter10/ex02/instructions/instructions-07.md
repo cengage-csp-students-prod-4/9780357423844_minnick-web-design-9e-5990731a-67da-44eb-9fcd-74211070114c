@@ -1,0 +1,1 @@
+**Task #07:** Declare and define the `menu` function

@@ -1,0 +1,1 @@
+**Task #10:** Create the style rules for the `figcaption` element

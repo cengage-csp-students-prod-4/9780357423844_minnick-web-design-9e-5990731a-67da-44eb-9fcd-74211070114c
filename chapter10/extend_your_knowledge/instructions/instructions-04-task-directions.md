@@ -1,0 +1,2 @@
+## Task 04
+Use your browser to research the jQuery `hide()` and `show()` methods. Use the *script.js* file to write the jQuery functions **remove** and **display** which make the paragraph elements within the article elements hide and show. Use the *Hide* and *Show* buttons to call your functions.  

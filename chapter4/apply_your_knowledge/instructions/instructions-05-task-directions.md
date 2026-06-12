@@ -1,0 +1,2 @@
+## Task 05
+In *styles.css*, add a blank line after the comment, and then add a new comment with the text **CSS Reset**, followed by a CSS reset style rule that sets the `margin`, `padding`, and `border` to **zero** for the following selectors: `body`, `header`, `nav`, `main`, `footer`, `img`, `h1`, `h3`. 

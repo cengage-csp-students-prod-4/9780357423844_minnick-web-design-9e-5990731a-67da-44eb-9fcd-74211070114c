@@ -1,0 +1,1 @@
+**Task #08:** Add the provided `main` content to the *index.html* file

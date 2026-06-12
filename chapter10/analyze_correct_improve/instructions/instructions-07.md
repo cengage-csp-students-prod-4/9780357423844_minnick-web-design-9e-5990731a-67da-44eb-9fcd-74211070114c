@@ -1,0 +1,1 @@
+**Task #07:** Updated the *styles.css* file 

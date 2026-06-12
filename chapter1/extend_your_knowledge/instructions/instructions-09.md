@@ -1,0 +1,1 @@
+**Task #09:** Add a paragraph element with a summary of *Guideline 1.2*

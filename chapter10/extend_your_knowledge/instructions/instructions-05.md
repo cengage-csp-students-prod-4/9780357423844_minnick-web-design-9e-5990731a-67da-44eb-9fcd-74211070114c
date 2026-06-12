@@ -1,0 +1,1 @@
+**Task #05:** The *Hide* button removes the content nested inside the `article`

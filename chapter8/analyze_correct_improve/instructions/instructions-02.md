@@ -1,0 +1,1 @@
+**Task #02:** Add a `label` element to each input control

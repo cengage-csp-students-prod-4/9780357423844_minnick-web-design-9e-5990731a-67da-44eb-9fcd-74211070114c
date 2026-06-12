@@ -1,0 +1,1 @@
+**Task #05:** Correct the style rule for `nav` element's list items

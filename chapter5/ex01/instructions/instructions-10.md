@@ -1,0 +1,1 @@
+**Task #10:** Add the `round` class selector to the three image elements in *lessons.html*

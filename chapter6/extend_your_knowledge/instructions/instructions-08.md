@@ -1,0 +1,1 @@
+**Task #08:** Create the gradient styles for the `gradient7` class

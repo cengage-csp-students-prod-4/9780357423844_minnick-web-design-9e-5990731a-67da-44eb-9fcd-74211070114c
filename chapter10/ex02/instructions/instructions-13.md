@@ -1,0 +1,1 @@
+**Task #13:** Add the global variables to the *script.js* file 

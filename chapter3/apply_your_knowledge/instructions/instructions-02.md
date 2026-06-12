@@ -1,0 +1,1 @@
+**Task #02:** Nest an `img` element within the `header`

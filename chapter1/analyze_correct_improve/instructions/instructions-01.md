@@ -1,0 +1,1 @@
+**Task #01:** Fix the issue with`DOCTYPE` tag

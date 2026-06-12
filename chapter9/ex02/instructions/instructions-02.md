@@ -1,0 +1,1 @@
+**Task #02:** Replace the `img` element with an paragraph element

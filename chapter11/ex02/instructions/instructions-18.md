@@ -1,0 +1,1 @@
+**Task #18:** Update the `footer` in all HTML files

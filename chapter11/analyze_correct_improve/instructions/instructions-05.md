@@ -1,0 +1,1 @@
+**Task #05:** Modify the all `img alt`text attributes for better SEO

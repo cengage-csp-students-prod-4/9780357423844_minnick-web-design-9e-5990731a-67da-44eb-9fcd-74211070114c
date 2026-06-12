@@ -1,0 +1,1 @@
+**Task #15:** Update all `img` elements in the *lessons.html* file

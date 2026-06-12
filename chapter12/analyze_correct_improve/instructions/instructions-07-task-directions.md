@@ -1,0 +1,2 @@
+## Task 07
+Change all `col-sm-6` class values to **col-sm-3**.

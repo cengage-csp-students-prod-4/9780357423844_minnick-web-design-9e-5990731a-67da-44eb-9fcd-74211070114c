@@ -1,0 +1,2 @@
+## Task 03
+Create a style rule for the `gradient2` class selector and add a declaration to specify a `linear-gradient` to the **left**, use **#d4f7ec** and **#448d76**  for color values, and use   **90%** as the color stop. 

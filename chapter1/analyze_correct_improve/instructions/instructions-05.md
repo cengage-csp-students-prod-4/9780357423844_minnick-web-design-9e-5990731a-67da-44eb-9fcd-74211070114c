@@ -1,0 +1,1 @@
+**Task #05:** Fix the issue with the `body` tag

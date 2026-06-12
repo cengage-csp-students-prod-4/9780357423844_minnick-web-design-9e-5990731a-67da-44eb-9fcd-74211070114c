@@ -1,0 +1,2 @@
+<!-- manual -->
+In this exercise, you use multimedia software to create a short video. If you use a Windows 10 computer, you can use Microsoft Photos. If you use macOS and have iMovie on your system, use iMovie to complete this project. You may also use your browser to research other online multimedia options. 

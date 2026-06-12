@@ -1,0 +1,1 @@
+**Task #08:** Add `onclick` handlers for each `img` element

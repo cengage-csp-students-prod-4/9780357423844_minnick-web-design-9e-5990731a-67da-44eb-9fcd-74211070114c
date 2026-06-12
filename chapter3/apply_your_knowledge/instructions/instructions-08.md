@@ -1,0 +1,1 @@
+**Task #08:** Convert the designated paragraph elements to descriptions terms

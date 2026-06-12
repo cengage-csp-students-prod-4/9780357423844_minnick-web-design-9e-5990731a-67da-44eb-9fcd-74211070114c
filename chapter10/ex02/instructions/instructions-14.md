@@ -1,0 +1,1 @@
+**Task #14:** Create the four `ans` functions in the *script.js* file

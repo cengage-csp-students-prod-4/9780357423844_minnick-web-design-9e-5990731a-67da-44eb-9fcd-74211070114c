@@ -1,0 +1,1 @@
+**Task #08:** Link all the HTML and JavaScript files

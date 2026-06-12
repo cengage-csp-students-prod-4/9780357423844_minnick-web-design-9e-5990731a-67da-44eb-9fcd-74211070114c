@@ -1,0 +1,1 @@
+**Task #17:** Create the mobile style rules for the `.social img` selector 

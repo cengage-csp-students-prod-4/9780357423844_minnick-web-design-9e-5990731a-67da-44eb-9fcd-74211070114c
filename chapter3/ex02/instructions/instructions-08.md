@@ -1,0 +1,1 @@
+**Task #08:** Add the `img` element with the proper attributes to the `latest` `div`

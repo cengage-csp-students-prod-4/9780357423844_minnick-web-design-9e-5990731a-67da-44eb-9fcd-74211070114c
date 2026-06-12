@@ -1,0 +1,6 @@
+In this exercise, you will use your text editor to create an HTML webpage. You will add all the necessary basic HTML elements to the page. An example of the completed webpage is shown in _Figure 1-44_.
+
+<p align='center'>
+<img src='../assets/e8TmiiKlSC8UdHX2dF8W.png' width='95%' alt='A webpage displayed in the Google Chrome web browser. The title in the browser tab is the following. C H 1 Apply Your Knowledge. The following content is displayed in the webpage. Line 1. Chapter 1, Apply Your Knowledge. Line 2. Your Name, Today’s Date. A horizontal line is present next. Line 3. I am using Notepad Plus Plus as my text editor to complete this assignment. The next content is in line 4 and 5. Chapter 1 provides an overview of webpage design and all of the design elements that must be taken into consideration when creating a webpage. Before you begin coding a website, you must first create a wireframe and site map. Next, you need to consider several design elements, such as graphics, navigation, and color. Finally, you must also plan for accessibility. Line 6. After reading Chapter 1, I now understand how to download and use a text editor to create an H T M L page. I know which H T M L elements are required to create a basic H T M L webpage.' />
+</p>
+<sup>Figure 1-44</sup>

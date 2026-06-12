@@ -1,0 +1,2 @@
+## Task 08
+Below the `h2` element, add an image element to insert the *baby-raccoons.jpg* picture. Use  **hands holding three baby raccoons** for the `alt` text and add the `height` and `width` attributes of **330px** and **500px** respectively. 

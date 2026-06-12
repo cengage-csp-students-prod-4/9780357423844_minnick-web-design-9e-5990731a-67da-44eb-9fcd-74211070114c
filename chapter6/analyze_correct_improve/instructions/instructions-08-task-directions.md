@@ -1,0 +1,2 @@
+## Task 08
+In the *styles.css* file, within the desktop media query, below the style rule for `main`, add a new style rule for the `col-content` class selector that sets a `width` of   **30%**, sets a `float` to the **left**, and `padding` of **1.5%** on all sides.

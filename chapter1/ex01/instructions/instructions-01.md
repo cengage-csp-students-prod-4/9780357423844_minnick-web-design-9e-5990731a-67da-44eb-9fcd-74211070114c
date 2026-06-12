@@ -1,0 +1,1 @@
+**Task #01:** Add the required HTML elements to the *plan.html* file

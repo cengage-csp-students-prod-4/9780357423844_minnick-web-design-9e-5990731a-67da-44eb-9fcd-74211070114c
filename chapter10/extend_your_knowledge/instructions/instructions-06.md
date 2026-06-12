@@ -1,0 +1,1 @@
+**Task #06:** The *Show* button displays the content nested inside the `article`

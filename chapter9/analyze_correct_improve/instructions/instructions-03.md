@@ -1,0 +1,1 @@
+**Task #03:** Add the `poster` attribute to the `video` element

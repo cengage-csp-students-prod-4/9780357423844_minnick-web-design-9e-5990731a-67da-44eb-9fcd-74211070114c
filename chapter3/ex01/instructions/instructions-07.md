@@ -1,0 +1,1 @@
+**Task #07:** Updated the *lessons.html* comment and `title` element information

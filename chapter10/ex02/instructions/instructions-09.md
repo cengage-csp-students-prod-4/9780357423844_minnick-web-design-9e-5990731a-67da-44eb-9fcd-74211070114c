@@ -1,0 +1,1 @@
+**Task #09:** Create the *faqs.html* file

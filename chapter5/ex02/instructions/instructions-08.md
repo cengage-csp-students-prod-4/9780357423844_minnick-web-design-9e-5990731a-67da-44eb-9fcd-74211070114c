@@ -1,0 +1,1 @@
+**Task #08:** Add the `round` class selector to images in the *index.html* and *about.html* files

@@ -1,0 +1,1 @@
+**Task #06:** Add a placeholder value to the `expDate` input control

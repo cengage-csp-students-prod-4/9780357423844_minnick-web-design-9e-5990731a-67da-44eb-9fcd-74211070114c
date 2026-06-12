@@ -1,0 +1,1 @@
+**Task #06:** Add a thematic break

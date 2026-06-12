@@ -1,0 +1,1 @@
+**Task #06:** Add a copyright symbol and review the webpage

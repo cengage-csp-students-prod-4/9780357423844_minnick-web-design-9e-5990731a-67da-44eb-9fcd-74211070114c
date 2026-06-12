@@ -1,0 +1,1 @@
+**Task #07:** Add style rules for `grid` class selector 

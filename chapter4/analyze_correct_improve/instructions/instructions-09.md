@@ -1,0 +1,1 @@
+**Task #09:** Update the style rules for the elements nested in the `main` element

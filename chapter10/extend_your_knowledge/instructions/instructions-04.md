@@ -1,0 +1,1 @@
+**Task #04:** Create the `remove` and `display` functions

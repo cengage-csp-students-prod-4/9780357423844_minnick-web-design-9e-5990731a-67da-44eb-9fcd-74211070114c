@@ -1,0 +1,1 @@
+**Task #12:** Add the `copyright` `div` to the `footer` element

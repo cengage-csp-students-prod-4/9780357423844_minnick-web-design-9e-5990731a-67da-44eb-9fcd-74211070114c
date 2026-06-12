@@ -1,0 +1,1 @@
+**Task #10:** Create the `hover` style for the `square` class

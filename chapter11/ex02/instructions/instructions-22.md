@@ -1,0 +1,1 @@
+**Task #22:** Create the mobile style rules for the `footer a` and `.social` class selector

@@ -1,0 +1,3 @@
+## Task 05
+Add a new comment below the `pic1()` function, followed by a new function named **pic2()**. Carefully analyze the `pic1()` function to understand the purpose of the four statements within the function. Use it as a guide to create the `pic2()` function. The `pic2()` function should display the *sanjuan.jpg* image, use  **Elevated view of San Juan coast** for the `img` `alt` text, and use **Coast of San Juan**  for the `figcaption` text.
+ 

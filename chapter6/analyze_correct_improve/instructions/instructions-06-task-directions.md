@@ -1,0 +1,2 @@
+## Task 06
+Within the desktop media query, below the style rule for `nav li a`, add a new style rule for the `nav li a` selector that uses the `hover` `pseudo-class`. Set the color to   **#4424d6** and the background color to **#e5e0fa**. 

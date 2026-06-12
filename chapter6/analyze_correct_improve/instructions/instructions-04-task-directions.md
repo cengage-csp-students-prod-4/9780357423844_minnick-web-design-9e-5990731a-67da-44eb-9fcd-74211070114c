@@ -1,0 +1,2 @@
+## Task 04
+In the *styles.css* file, modify the `body` style rule to use a linear gradient for the `background` with color values **#e5e0fa** and **#29157e**.  Remove the declaration that specifies a background color. 

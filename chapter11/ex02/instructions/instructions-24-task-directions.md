@@ -1,0 +1,2 @@
+## Task 24
+Create a minified version of your stylesheet. Name it *styles.min.css*. Be care not to overwrite your original *styles.css* file. Update the stylesheet link in each HTML file to use the minified CSS file instead of the original. 

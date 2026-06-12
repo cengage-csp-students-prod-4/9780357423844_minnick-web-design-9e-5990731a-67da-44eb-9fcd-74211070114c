@@ -1,0 +1,1 @@
+**Task #07:** Add the `header` element with the provided content to the *index.html* file

@@ -1,0 +1,2 @@
+## Task 04
+Below the style rule you created in *task 2*, add another style rule for the `nav li a` selector that sets the top and bottom padding to   **0.25em** and the left and right padding to **0.5em**. 

@@ -1,0 +1,1 @@
+**Task #13:** Update the `height` and `width` styles of the `.map` class selector

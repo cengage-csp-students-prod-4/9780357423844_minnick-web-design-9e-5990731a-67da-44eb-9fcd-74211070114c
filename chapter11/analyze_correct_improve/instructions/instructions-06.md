@@ -1,0 +1,1 @@
+**Task #06:** Link the social media icons to their respective social network home pages

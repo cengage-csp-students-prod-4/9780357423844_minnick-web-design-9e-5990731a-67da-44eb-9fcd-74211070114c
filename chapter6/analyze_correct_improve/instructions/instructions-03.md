@@ -1,0 +1,1 @@
+**Task #03:** Update the styles for the `tablet-desktop` class selector

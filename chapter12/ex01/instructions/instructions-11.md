@@ -1,0 +1,1 @@
+**Task #11:** Add the class selector styles to the *index.html* file

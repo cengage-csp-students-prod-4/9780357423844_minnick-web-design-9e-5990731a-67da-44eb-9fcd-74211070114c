@@ -1,0 +1,1 @@
+**Task #10:** Update the `title` of the *faqs.html* page

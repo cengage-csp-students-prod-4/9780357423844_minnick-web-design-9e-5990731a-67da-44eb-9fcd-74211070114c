@@ -1,0 +1,1 @@
+**Task #04:** Add a `table` element to the *partnership.html* file

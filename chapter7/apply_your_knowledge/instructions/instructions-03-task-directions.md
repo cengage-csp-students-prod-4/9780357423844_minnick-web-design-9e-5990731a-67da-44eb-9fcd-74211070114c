@@ -1,0 +1,2 @@
+## Task 03
+In the *index.html* file, within the `main` element, replace the first `div` element with an `article` element and add a class attribute with a value of **grid**. Be sure to update the closing `div` tag as well, just above the closing `main` tag. 

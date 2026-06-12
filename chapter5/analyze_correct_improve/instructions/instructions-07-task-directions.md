@@ -1,0 +1,2 @@
+## Task 07
+Below the `btn` style rule, add a new style rule for anchor elements within the `btn` class that specifies a color value of **#ebf7e3**, removes the underline, sets a font size of **1.25em**, and displays the content as a **block**.

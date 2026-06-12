@@ -1,0 +1,1 @@
+**Task #11:** Add the tablet style rules for `grid` class selector 

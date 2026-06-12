@@ -1,0 +1,1 @@
+**Task #07:** Add the style rules for the header content

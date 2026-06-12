@@ -1,0 +1,1 @@
+**Task #16:** Move the */resources* directory to */music/images*

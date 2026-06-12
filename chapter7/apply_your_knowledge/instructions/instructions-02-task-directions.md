@@ -1,0 +1,2 @@
+## Task 02
+Open the *styles.css* file from the *css* folder. Modify the comment at the top of the style sheet to include **your name** (firstname lastname), **today’s date** (MM/DD/YYYY), and the **file name**. 

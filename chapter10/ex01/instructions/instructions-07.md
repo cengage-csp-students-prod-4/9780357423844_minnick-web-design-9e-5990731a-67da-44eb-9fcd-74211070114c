@@ -1,0 +1,1 @@
+**Task #07:** Create the *scripts* folder and the *script.js* file

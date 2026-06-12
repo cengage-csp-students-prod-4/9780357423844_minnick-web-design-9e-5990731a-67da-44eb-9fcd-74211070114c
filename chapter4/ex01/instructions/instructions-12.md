@@ -1,0 +1,1 @@
+**Task #12:** Create the styles for the `footer` content

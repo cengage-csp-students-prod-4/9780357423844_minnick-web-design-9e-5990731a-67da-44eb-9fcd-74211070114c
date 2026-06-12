@@ -1,0 +1,2 @@
+## Task 03
+In the `head` element, below the `meta` character set tag, insert a description `meta` tag with a `content` value of  **Wild Rescues is a local nonprofit organization dedicated to helping injured, neglected, or orphaned wildlife.**. 

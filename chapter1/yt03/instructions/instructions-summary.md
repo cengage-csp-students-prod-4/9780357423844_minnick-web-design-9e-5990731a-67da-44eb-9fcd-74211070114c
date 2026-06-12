@@ -1,0 +1,2 @@
+<!--practice-->
+You and several of your classmates have been tasked with creating a website that showcases advancements in technology. This might include, but is not limited to, artificial intelligence, deep learning, robotics, and the Internet of Things (IoT). You will work with three or four classmates to create a website plan, wireframe, and site map for the proposed website. 

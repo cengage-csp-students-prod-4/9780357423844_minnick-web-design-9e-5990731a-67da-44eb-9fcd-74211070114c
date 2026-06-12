@@ -1,0 +1,1 @@
+**Task #06:** Add the tablet styles for the `map` class selector

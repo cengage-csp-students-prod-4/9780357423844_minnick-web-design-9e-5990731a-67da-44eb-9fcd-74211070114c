@@ -1,0 +1,1 @@
+**Task #07:** Set the `class` attribute for the `main` `div` elements

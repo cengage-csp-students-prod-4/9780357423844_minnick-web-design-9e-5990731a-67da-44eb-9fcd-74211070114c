@@ -1,0 +1,1 @@
+**Task #01:** Updated the comment section of the *index.html* and *styles.css* files

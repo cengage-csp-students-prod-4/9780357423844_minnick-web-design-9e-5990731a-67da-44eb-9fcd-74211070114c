@@ -1,0 +1,1 @@
+**Task #07:** Create the style rules for the navigation area

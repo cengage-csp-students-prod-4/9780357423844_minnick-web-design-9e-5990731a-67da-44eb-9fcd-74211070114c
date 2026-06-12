@@ -1,0 +1,1 @@
+**Task #04:** Create three global variables in the *script.js* file

@@ -1,0 +1,1 @@
+**Task #08:** Create the styles for the tablet viewport

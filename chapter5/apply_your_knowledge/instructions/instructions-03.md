@@ -1,0 +1,1 @@
+**Task #03:** Create the style rules for the `img` elements

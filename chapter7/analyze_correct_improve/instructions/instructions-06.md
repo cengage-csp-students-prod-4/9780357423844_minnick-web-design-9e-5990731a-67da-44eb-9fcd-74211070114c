@@ -1,0 +1,1 @@
+**Task #06:** Add a text and box shadow to the `aside` element

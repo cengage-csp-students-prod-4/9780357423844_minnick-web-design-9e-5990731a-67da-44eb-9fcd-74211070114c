@@ -1,0 +1,1 @@
+**Task #07:** Add a description `meta` tag and add the provided description to the *partnership.html* file

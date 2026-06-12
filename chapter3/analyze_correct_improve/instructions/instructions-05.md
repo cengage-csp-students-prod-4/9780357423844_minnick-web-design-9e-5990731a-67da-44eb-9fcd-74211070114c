@@ -1,0 +1,1 @@
+**Task #05:** Correct  the issues  with the `img` element

@@ -1,0 +1,1 @@
+**Task #08:** Add a paragraph about planning a website and a summary of chapter 1

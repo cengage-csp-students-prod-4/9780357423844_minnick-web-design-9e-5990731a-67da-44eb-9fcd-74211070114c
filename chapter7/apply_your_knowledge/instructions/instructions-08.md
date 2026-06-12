@@ -1,0 +1,1 @@
+**Task #08:** Create and apply the desktop styles

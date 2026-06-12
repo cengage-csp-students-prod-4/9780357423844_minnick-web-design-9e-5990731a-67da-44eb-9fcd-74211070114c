@@ -1,0 +1,1 @@
+**Task #07:** Update the style rule for the `footer` element

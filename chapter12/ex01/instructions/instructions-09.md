@@ -1,0 +1,1 @@
+**Task #09:** Add the provided `footer` content to the *index.html* file

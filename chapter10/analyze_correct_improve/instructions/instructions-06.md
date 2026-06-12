@@ -1,0 +1,1 @@
+**Task #06:** Declare the `pic3()` function

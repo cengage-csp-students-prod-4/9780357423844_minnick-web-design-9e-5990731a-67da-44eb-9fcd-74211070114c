@@ -1,0 +1,1 @@
+**Task #06:** Create the desktop styles for the `table`element

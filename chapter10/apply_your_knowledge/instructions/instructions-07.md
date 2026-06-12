@@ -1,0 +1,1 @@
+**Task #07:** Create the `content` function

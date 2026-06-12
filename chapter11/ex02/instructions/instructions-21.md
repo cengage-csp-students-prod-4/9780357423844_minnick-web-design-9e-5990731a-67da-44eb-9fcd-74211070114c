@@ -1,0 +1,1 @@
+**Task #21:** Create the style rules for the `.skip` class selector

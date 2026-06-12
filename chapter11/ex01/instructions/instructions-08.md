@@ -1,0 +1,1 @@
+**Task #08:** Update the `title` of the *rentals.html* file

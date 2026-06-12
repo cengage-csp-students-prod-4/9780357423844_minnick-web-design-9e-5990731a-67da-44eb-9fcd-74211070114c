@@ -1,0 +1,1 @@
+**Task #06:** Create the mobile style rules for the `section`, `article`, and `aside` selectors

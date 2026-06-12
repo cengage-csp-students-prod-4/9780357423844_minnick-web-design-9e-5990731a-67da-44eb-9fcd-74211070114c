@@ -1,0 +1,1 @@
+**Task #09:** Updated the `figure` and `img` properties

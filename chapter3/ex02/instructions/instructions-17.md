@@ -1,0 +1,1 @@
+**Task #17:** Move the image files to the */images* directory

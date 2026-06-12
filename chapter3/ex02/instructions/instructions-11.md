@@ -1,0 +1,1 @@
+**Task #11:** Updated the *about.html* comment and `title` element information

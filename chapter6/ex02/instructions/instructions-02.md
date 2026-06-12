@@ -1,0 +1,1 @@
+**Task #02:** Set the `tab-desk` and `mobile` display properties for the tablet viewport

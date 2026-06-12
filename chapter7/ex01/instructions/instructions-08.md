@@ -1,0 +1,1 @@
+**Task #08:** Add selectors to the CSS Reset and create style rules for the `aside` element

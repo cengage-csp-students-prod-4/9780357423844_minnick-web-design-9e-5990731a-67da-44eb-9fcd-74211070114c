@@ -1,0 +1,2 @@
+## Task 03
+In the `head` element, below the `meta` character set tag, insert a description `meta` tag with a `content` value of  **Strike a Chord specializes in music lessons and music rental equipment.**. 

@@ -1,0 +1,1 @@
+**Task #08:** Add style rules for the `aside`, `figure`, and `figcaption` selectors

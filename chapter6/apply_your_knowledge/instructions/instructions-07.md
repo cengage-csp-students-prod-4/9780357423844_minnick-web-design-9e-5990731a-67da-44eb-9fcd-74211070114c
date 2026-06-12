@@ -1,0 +1,1 @@
+**Task #07:** Set the desktop `hover` action for the `article` element

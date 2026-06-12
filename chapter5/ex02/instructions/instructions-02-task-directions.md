@@ -1,0 +1,2 @@
+## Task 02
+In the *index.html* file, in the `header` element, wrap the anchor element within a `div` element with a `class` attribute value of **tab-desk**. Below this `div` element (still within the header element), create a new `div` element with a `class` attribute value of **mobile**.   Nest the following elements within this `div`:  `<h1>&#128062; Wild Rescues</h1>  <h3>Rescue. Rehabilitate. Release.</h3>` 

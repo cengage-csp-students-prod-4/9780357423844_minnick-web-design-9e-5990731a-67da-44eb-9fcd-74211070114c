@@ -1,0 +1,1 @@
+**Task #05:** Add the animation to the `sqaure` class selector

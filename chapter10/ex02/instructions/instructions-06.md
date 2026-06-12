@@ -1,0 +1,1 @@
+**Task #06:** Create the */scripts* and the *scripts.js* file

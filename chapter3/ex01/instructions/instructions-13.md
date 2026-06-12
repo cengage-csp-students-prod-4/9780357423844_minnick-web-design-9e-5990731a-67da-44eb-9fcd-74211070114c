@@ -1,0 +1,1 @@
+**Task #13:** Updated the *contact.html* comment and `title` element information

@@ -1,0 +1,1 @@
+**Task #08:** Create a linear gradient background for the `body` element

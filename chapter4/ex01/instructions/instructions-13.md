@@ -1,0 +1,1 @@
+**Task #13:** Add the *music-notes.png* file to the `hero` `div`

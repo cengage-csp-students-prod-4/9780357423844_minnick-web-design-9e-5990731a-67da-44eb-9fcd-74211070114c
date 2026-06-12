@@ -1,0 +1,1 @@
+**Task #09:** Set the `onclick` event handler

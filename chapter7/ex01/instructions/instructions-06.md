@@ -1,0 +1,1 @@
+**Task #06:** Add a `figure` and a `figcaption` for the piano instructor

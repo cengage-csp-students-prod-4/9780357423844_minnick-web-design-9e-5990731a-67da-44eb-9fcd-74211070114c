@@ -1,0 +1,1 @@
+**Task #02:** Updated the `header` in the *index.html* file

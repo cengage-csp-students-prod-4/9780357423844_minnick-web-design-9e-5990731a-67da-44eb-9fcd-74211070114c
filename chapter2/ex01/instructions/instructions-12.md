@@ -1,0 +1,1 @@
+**Task #12:** Use the template to create the home page in the **index.html** file.

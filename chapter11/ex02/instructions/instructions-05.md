@@ -1,0 +1,1 @@
+**Task #05:** Add a description `meta` tag and add the provided description to the *about.html* file

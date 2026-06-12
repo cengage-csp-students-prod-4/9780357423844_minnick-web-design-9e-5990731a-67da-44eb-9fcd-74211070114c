@@ -1,0 +1,1 @@
+**Task #02:** Change all the `div` elements to the appropriate HTML5 semantic element

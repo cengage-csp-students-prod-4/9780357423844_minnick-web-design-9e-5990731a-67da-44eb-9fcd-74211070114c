@@ -1,0 +1,1 @@
+**Task #10:** Create the desktop style rules for the `main` content

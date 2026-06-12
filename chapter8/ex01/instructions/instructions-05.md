@@ -1,0 +1,1 @@
+**Task #05:** Create the mobile styles for the `table`element

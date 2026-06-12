@@ -1,0 +1,1 @@
+**Task #11:** Add the class attributes to the *contact.html* file

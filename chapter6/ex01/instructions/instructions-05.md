@@ -1,0 +1,1 @@
+**Task #05:** Updated the `contact` information class attributes

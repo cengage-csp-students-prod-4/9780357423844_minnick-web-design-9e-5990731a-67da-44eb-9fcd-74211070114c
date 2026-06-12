@@ -1,0 +1,1 @@
+**Task #09:** Add the style rules for the `main` content

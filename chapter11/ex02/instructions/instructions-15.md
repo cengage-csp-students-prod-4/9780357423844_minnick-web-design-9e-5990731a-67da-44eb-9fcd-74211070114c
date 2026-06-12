@@ -1,0 +1,1 @@
+**Task #15:** Add the `social` `div` to the `footer` element of the *index.html* file

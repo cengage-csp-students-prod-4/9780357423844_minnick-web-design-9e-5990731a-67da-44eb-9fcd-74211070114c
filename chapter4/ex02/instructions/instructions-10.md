@@ -1,0 +1,1 @@
+**Task #10:** Add an image to each HTML file

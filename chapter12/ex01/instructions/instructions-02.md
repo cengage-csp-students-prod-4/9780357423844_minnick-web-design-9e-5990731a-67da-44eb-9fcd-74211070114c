@@ -1,0 +1,1 @@
+**Task #02:** Updated the multi-line comment, the title, and remove `h1` element in the *index.html* file

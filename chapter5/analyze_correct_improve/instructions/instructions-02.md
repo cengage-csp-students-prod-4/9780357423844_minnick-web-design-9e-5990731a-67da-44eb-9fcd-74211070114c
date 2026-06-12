@@ -1,0 +1,1 @@
+**Task #02:** Add the `meta` `viewport` element to the *index.html* file

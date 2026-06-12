@@ -1,0 +1,1 @@
+**Task #08:** Add the style rules for the navigation area

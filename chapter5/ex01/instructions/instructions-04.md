@@ -1,0 +1,1 @@
+**Task #04:** Hide the `tab-desk` elements

@@ -1,0 +1,1 @@
+**Task #04:** Create a style rule to hide the `tablet-desk` class

@@ -1,0 +1,2 @@
+## Task 02
+In the *index.html* file, review the current `div` elements used to structure content and replace them with `header`, `nav`, `main`, `section`, `article`, `aside`, and `footer` HTML 5 semantic elements. Do not replace the   `div id="container"`   element.

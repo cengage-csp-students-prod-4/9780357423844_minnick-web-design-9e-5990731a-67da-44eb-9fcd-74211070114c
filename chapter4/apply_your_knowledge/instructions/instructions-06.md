@@ -1,0 +1,1 @@
+**Task #06:** Add styles rules for the `body` and `image` elements

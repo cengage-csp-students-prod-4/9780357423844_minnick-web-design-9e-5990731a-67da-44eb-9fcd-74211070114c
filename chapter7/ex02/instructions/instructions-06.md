@@ -1,0 +1,1 @@
+**Task #06:** Add images for the sixth, seventh, and eighth `figure` elements

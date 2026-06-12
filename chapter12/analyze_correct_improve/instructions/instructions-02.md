@@ -1,0 +1,1 @@
+**Task #02:** Update the `nav` class attributes

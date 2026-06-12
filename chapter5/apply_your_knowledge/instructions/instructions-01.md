@@ -1,0 +1,1 @@
+**Task #01:** Link the *styles.css* to the *index.html* file

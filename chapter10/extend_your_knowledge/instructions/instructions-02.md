@@ -1,0 +1,1 @@
+**Task #02:** Add **your name**, the **file name**, and the **today's date** to the multi-line comment in the *script.js* file

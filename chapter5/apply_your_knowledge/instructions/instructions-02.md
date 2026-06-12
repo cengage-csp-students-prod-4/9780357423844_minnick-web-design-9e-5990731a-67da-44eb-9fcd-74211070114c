@@ -1,0 +1,1 @@
+**Task #02:** Add the **tablet-desk** and **corner** class attributes

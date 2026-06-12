@@ -1,0 +1,1 @@
+**Task #06:** Add a `div` element with the `id` **resources**

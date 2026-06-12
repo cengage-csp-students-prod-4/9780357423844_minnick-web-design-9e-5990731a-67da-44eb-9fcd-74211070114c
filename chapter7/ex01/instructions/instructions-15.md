@@ -1,0 +1,1 @@
+**Task #15:** Add the desktop style rules for the `grid` class selector

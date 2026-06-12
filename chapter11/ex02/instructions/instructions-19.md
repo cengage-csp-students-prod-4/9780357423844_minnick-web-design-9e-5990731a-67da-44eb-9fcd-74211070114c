@@ -1,0 +1,1 @@
+**Task #19:** Add the *Skip to Content* link in all HTML files

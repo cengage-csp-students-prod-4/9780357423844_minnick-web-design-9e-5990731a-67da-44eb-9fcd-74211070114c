@@ -1,0 +1,1 @@
+**Task #03:** Add the description `meta` tag to the *index.html* file

@@ -1,0 +1,1 @@
+**Task #10:** Create and apply the style rules for the `bg-light-blue` class selector

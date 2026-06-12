@@ -1,0 +1,1 @@
+**Task #24:** Create a minified version of the *styles.css* file

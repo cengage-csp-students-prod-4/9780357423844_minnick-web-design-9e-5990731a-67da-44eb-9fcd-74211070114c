@@ -1,0 +1,1 @@
+**Task #02:** Create the style rules for the `sticky` class selector

@@ -1,0 +1,1 @@
+**Task #12:** Add a new `div` element with the `id` **info** with provided content

@@ -1,0 +1,1 @@
+**Task #03:** Create the tablet style rules for the `article` element

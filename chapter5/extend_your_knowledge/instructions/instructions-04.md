@@ -1,0 +1,1 @@
+**Task #04:** Create style rules for the `fixed` class selector

@@ -1,0 +1,1 @@
+**Task #02:** Update the `title` of the *index.html* page

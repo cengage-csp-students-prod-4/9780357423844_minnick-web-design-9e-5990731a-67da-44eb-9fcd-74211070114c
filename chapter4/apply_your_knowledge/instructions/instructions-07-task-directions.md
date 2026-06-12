@@ -1,0 +1,2 @@
+## Task 07
+Add a blank line after the `img` style rule, add a comment with the text **Style rule for header content**, and then create a new style rule for the header `h1` descendant selector that aligns text **center**; sets a font size value of **3em**; sets a font family value of **Georgia, Times, serif**; sets a padding value of **3%**; and sets a color value of `#101a2d`.

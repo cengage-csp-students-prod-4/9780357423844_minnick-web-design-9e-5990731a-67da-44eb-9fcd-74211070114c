@@ -1,0 +1,1 @@
+**Task #04:** Create a tablet style rule for the `footer`

@@ -1,0 +1,1 @@
+**Task #02:** Add the tablet viewport media query

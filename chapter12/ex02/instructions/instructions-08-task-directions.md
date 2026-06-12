@@ -1,0 +1,2 @@
+## Task 08
+Below the `header` element, add a comment with the text **Main Content Area**. Below the comment, add a `main` element that includes a class attribute with the following values: **container-fluid mt-5**.

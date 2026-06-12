@@ -1,0 +1,1 @@
+**Task #06:** Add and style the `btn` class selector

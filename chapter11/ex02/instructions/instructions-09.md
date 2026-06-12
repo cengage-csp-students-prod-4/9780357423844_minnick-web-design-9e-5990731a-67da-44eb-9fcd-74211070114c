@@ -1,0 +1,1 @@
+**Task #09:** Add a description `meta` tag and add the provided description to the *gallery.html* file

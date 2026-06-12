@@ -1,0 +1,1 @@
+**Task #04:** Link the CSS stylesheet to the *index.html* file

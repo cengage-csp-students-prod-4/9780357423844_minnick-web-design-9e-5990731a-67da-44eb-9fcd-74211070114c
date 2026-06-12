@@ -1,0 +1,1 @@
+**Task #04:** Add the favicon links to the *index.html* file

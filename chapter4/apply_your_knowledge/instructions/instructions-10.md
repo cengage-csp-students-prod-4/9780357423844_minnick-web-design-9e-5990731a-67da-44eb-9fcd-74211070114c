@@ -1,0 +1,1 @@
+**Task #10:** Add the style rules for the `footer` content

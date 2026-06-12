@@ -1,0 +1,1 @@
+**Task #06:** Update the style rule for the `main` selector

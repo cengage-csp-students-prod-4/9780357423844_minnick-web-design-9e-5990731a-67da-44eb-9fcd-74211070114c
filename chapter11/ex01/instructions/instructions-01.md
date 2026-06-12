@@ -1,0 +1,1 @@
+**Task #01:** Move the images from the */resources* folder to the */images* folder

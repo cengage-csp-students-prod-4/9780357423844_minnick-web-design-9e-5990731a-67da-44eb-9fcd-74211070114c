@@ -1,0 +1,1 @@
+**Task #03:** Add a `table` and a `caption` element with the provided text

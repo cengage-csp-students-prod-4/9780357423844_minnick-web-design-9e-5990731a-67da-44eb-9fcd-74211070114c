@@ -1,0 +1,1 @@
+**Task #02:** Create and link the *styles.css* file to the HTML files

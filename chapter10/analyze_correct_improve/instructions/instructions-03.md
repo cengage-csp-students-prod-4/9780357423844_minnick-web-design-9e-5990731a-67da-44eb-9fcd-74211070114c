@@ -1,0 +1,1 @@
+**Task #03:** Fix the six syntax errors in the *script.js* file

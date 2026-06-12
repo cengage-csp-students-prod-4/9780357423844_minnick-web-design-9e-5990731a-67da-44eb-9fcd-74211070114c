@@ -1,0 +1,1 @@
+**Task #02:** Set the `main` class attribute and add an `aside` element

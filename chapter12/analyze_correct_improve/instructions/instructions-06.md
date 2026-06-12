@@ -1,0 +1,1 @@
+**Task #06:** Add the `text-primary` class to each anchor element within a navigation list item

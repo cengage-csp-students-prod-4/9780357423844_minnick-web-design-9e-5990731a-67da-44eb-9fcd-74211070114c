@@ -1,0 +1,2 @@
+## Task 05
+Correct the image element with the correct value for the source attribute. Add the missing `alt`, `height` (333px), and `width` (500px) attributes to the image element. Use  **hand writing HTML 5**  for the value of the `alt` attribute.

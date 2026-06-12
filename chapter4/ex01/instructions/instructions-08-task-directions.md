@@ -1,0 +1,2 @@
+## Task 08
+In the *index.html* file, update the `nav` element to use an unordered list (`ul`) instead of a paragraph element. Remove the nonbreaking spaces `&nbsp;` and music character codes `&#9838;` nested within the `nav` element. Make the same changes to the *lessons.html*, *contact.html*, and *template.html* files. 

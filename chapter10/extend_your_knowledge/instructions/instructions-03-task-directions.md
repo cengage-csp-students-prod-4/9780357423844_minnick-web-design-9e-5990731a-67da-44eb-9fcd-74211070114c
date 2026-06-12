@@ -1,0 +1,2 @@
+## Task 03
+Obtain the jQuery library and insert a `script` element in *index.html* with a `source` attribute to the jQuery library. You can do this by linking to a jQuery CDN (Content Delivery Network). Use your browser to research and find the jQuery CDN link. Add a `script` element to the *index.html* file that includes a jQuery CDN link as the source.  Visit jquery.com/download/ or w3schools.com/jquery/jquery_get_started.asp for information the jQuery CDN. 

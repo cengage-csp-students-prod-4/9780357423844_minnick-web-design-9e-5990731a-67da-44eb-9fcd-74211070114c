@@ -1,0 +1,1 @@
+**Task #06:** Set the styles for the `caption` selector

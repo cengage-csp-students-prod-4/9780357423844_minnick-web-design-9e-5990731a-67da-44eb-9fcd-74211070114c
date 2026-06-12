@@ -1,0 +1,2 @@
+## Task 05
+Insert two blank lines below the `tab-desk` style rule and add a comment with the text,  **Style rules for header area**, and then create one style rule for `h1` and `h3` selectors within the `mobile` class that sets the `padding` to **2%** and aligns text **center**. 

@@ -1,0 +1,7 @@
+<!--manual-->
+In this exercise, you will create class selectors to style webpage content. You will use hexadecimal, RGB, and HSL color codes in a style sheet, using a browser to find a color converter. The webpage includes empty paragraph elements and comments that contain questions. You will use the empty elements to answer questions noted within the webpage comments. An example of the completed webpage is shown in _Figure 4-79_.
+
+<p align='center'>
+<img src='../assets/sPrwj9K5TFOfxZddQqMm.png' width='95%' alt='Screenshot of the webpage that needs to be created. On the top and center aligned is a header with the following text. "C S S Colors." Below the header, the page is divided into 3 columns. The first column has the header "Orange" below which there are 3 boxes. All the boxes are orange in color. The 3 boxes have the following text. Hex Orange. R G B Orange. H S L Orange. The second column has the header "Purple" below which there are 3 boxes. All the boxes are purple in color. The 3 boxes have the following text. Hex Purple. R G B Purple. H S L Purple. The third column has the header "Green" below which there are 3 boxes. All the boxes are green in color. The 3 boxes have the following text. Hex Green. R G B Green. H S L Green. Below the row of boxes the following text is present in three separate lines. Color Converter Used, colon. Preferred color code format, colon. H W B summary.' />
+</p>
+<sup>Figure 4-79</sup>

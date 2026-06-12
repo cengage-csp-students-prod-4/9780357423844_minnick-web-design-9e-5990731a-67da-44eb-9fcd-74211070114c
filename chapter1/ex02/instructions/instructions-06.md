@@ -1,0 +1,1 @@
+**Task #06:** Add the six provided paragraph elements

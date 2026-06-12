@@ -1,0 +1,1 @@
+**Task #06:** Set the `corner` class `border-radius` property to **12px**

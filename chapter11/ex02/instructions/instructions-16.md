@@ -1,0 +1,1 @@
+**Task #16:** Add the first logo image to the `footer` of the *index.html* file

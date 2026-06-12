@@ -1,0 +1,1 @@
+**Task #05:** Add a `figure` and a `figcaption` for the electric guitar instructor

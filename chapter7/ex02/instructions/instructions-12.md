@@ -1,0 +1,1 @@
+**Task #12:** Add the four provided `link` elements to the `head` element of each HTML file

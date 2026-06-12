@@ -1,0 +1,2 @@
+## Task 05
+In the *styles.css* file, below the tablet media query, add a comment with the text,   **Media Query for Desktop Viewport**. Below the comment, add a media query to target a desktop viewport screen with a minimum width of  **900px**. 

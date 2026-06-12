@@ -1,0 +1,1 @@
+**Task #07:** Add a `figure` and a `figcaption` for the violin instructor

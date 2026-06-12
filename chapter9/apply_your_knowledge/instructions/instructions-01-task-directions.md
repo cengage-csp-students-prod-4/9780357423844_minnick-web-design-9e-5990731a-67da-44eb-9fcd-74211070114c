@@ -1,0 +1,2 @@
+## Task 01
+Open the *index.html* file and review the page, add a `title`, modify the comment at the top of the page to include **your name** (firstname lastname) and **today’s date**, and replace “Student’s Name” with your name in the `footer` element. 

@@ -1,0 +1,2 @@
+## Task 08
+Modify the style rule for the`body` selector by specifying a `background` with a linear gradient that uses a direction of  to **left**, first color value of **#fe9972**, and second color value of **#ffe5dc**.  Remove the declaration for the background color from the style rule.

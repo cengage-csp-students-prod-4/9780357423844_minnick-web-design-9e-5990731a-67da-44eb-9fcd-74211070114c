@@ -1,0 +1,1 @@
+**Task #05:** Add and hide the `tablet-desktop` class 

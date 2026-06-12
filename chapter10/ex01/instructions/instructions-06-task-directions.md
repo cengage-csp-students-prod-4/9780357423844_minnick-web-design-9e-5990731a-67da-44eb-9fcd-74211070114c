@@ -1,0 +1,2 @@
+## Task 06
+In the tablet media query, below the comment, **Tablet Viewport: Style rule for header content**, add a new style rule for the `header h1` selector that sets the `margin` and `padding` to **0**  and the `font-size` to **2em**.

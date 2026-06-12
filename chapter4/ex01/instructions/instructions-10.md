@@ -1,0 +1,1 @@
+**Task #10:** Add style rules for the `#piano`, `#guitar`, `#violin`, and `#info` elements

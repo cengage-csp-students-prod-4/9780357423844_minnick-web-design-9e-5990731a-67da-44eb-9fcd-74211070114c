@@ -1,0 +1,1 @@
+**Task #06:** Link the **Emblema One** and **Lora** fonts
