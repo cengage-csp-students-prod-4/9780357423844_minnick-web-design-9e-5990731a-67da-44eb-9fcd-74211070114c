@@ -3,39 +3,39 @@ Status: PASSED!
 Check: 1
 Test: Fix the issue with`DOCTYPE` tag.
 Reason: None
-Timestamp: 2026-06-13 00:26:30.812305
+Timestamp: 2026-06-13 00:29:45.692760
 
 Status: FAILED!
 Check: 2
 Test: Add the required HTML elements to the *index.html* file.
-Reason: Assertion failed: 2 != 1
-Error : AssertionError - 2 != 1
-Timestamp: 2026-06-13 00:26:30.812854
+Reason: Assertion failed: 3 != 1
+Error : AssertionError - 3 != 1
+Timestamp: 2026-06-13 00:29:45.693609
 
 Status: FAILED!
 Check: 3
 Test: Add the required HTML elements to the *index.html* file.
-Reason: Assertion failed: 2 != 1
-Error : AssertionError - 2 != 1
-Timestamp: 2026-06-13 00:26:30.813305
+Reason: Assertion failed: 3 != 1
+Error : AssertionError - 3 != 1
+Timestamp: 2026-06-13 00:29:45.694446
 
 Status: FAILED!
 Check: 4
 Test: Add the required HTML elements to the *index.html* file.
-Reason: Assertion failed: 2 != 1
-Error : AssertionError - 2 != 1
-Timestamp: 2026-06-13 00:26:30.813690
+Reason: Assertion failed: 3 != 1
+Error : AssertionError - 3 != 1
+Timestamp: 2026-06-13 00:29:45.695215
 
 Status: FAILED!
 Check: 5
 Test: Add the required HTML elements to the *index.html* file.
-Reason: Assertion failed: 2 != 1
-Error : AssertionError - 2 != 1
-Timestamp: 2026-06-13 00:26:30.814039
+Reason: Assertion failed: 3 != 1
+Error : AssertionError - 3 != 1
+Timestamp: 2026-06-13 00:29:45.696066
 
 Status: FAILED!
 Check: 6
 Test: Add the required HTML elements to the *index.html* file.
-Reason: Assertion failed: 2 != 1
-Error : AssertionError - 2 != 1
-Timestamp: 2026-06-13 00:26:30.814513
+Reason: Assertion failed: 3 != 1
+Error : AssertionError - 3 != 1
+Timestamp: 2026-06-13 00:29:45.696779
