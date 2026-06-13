@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add and specify the `charset` attribute.
-Reason: Assertion failed: 'UTF-8' != 'utf-8'
-Error : AssertionError - 'UTF-8' != 'utf-8'
-Timestamp: 2026-06-13 00:43:48.153629
+Reason: None
+Timestamp: 2026-06-13 00:47:06.164024
