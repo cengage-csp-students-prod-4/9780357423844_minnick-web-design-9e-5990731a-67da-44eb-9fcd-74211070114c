@@ -1,6 +1,7 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Copy the text from the instructions into the example.html file.
-Reason: None
-Timestamp: 2026-06-12 18:37:28.862825
+Reason: Assertion failed: Expected h1 text 'Welcome to your course', but found 'Chapter 1, Apply Your Knowledge.'
+Error : AssertionError - Expected h1 text 'Welcome to your course', but found 'Chapter 1, Apply Your Knowledge.'
+Timestamp: 2026-06-14 22:17:34.682639
