@@ -1,0 +1,17 @@
+
+Status: FAILED!
+Check: 1
+Test: In the `body` element, nest a paragraph element that includes the following text: 'Wild Rescues Website Outline'
+
+Below the first paragraph element, add another paragraph element that includes the text, 'Completed by:' followed by your name. 
+
+Below the second paragraph, add two blank lines.
+Reason: Assertion failed: 'Completed by: Mike Dahlin' != 'Wild Rescues Website Outline'
+- Completed by: Mike Dahlin
++ Wild Rescues Website Outline
+
+Error : AssertionError - 'Completed by: Mike Dahlin' != 'Wild Rescues Website Outline'
+- Completed by: Mike Dahlin
++ Wild Rescues Website Outline
+
+Timestamp: 2026-06-15 22:32:57.159263
