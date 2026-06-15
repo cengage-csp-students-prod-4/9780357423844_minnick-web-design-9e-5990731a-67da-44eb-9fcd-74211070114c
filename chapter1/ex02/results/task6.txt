@@ -1,49 +1,42 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add the six provided paragraph elements.
-Reason: Assertion failed: False is not true : Expected at least 6 paragraph elements, found: 1
-Error : AssertionError - False is not true : Expected at least 6 paragraph elements, found: 1
-Timestamp: 2026-06-15 22:33:32.067589
+Reason: None
+Timestamp: 2026-06-15 22:53:08.294561
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add the text, 'Home Page: The home page will include information about the purpose of Wild Rescues. It will also include the mission statement, which is to rescue, rehabilitate, and release wildlife back into their natural environment.', to the first paragraph element.
-Reason: Assertion failed: False is not true : The specified text, Home Page: The home page will include information about the purpose of Wild Rescues. It will also include the mission statement, which is to rescue, rehabilitate, and release wildlife back into their natural environment., was not found in any paragraph.
-Error : AssertionError - False is not true : The specified text, Home Page: The home page will include information about the purpose of Wild Rescues. It will also include the mission statement, which is to rescue, rehabilitate, and release wildlife back into their natural environment., was not found in any paragraph.
-Timestamp: 2026-06-15 22:33:32.068242
+Reason: None
+Timestamp: 2026-06-15 22:53:08.295133
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Add the text, 'About Us Page: The about us page will provide information about the types of animals we rescue and how we help rehabilitate them.', to the second paragraph element.
-Reason: Assertion failed: False is not true : The specified text, About Us Page: The about us page will provide information about the types of animals we rescue and how we help rehabilitate them., was not found in any paragraph.
-Error : AssertionError - False is not true : The specified text, About Us Page: The about us page will provide information about the types of animals we rescue and how we help rehabilitate them., was not found in any paragraph.
-Timestamp: 2026-06-15 22:33:32.068939
+Reason: None
+Timestamp: 2026-06-15 22:53:08.295604
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Add the text, 'Partnership Page: The partnership page will provide information about volunteer opportunities, ways to donate, and sponsorship opportunities.', to the third paragraph element.
-Reason: Assertion failed: False is not true : The specified text, Partnership Page: The partnership page will provide information about volunteer opportunities, ways to donate, and sponsorship opportunities., was not found in any paragraph.
-Error : AssertionError - False is not true : The specified text, Partnership Page: The partnership page will provide information about volunteer opportunities, ways to donate, and sponsorship opportunities., was not found in any paragraph.
-Timestamp: 2026-06-15 22:33:32.069463
+Reason: None
+Timestamp: 2026-06-15 22:53:08.296039
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: Add the text, 'Gallery Page: The gallery page will include several photos of our most memorable wildlife rescue friends.', to the fourth paragraph element.
-Reason: Assertion failed: False is not true : The specified text, Gallery Page: The gallery page will include several photos of our most memorable wildlife rescue friends., was not found in any paragraph.
-Error : AssertionError - False is not true : The specified text, Gallery Page: The gallery page will include several photos of our most memorable wildlife rescue friends., was not found in any paragraph.
-Timestamp: 2026-06-15 22:33:32.069953
+Reason: None
+Timestamp: 2026-06-15 22:53:08.296627
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: Add the text, 'FAQs Page: The FAQs page will provide visitors with many frequently asked questions and answers.', to the fifth paragraph element.
-Reason: Assertion failed: False is not true : The specified text, FAQs Page: The FAQs page will provide visitors with many frequently asked questions and answers., was not found in any paragraph.
-Error : AssertionError - False is not true : The specified text, FAQs Page: The FAQs page will provide visitors with many frequently asked questions and answers., was not found in any paragraph.
-Timestamp: 2026-06-15 22:33:32.070450
+Reason: None
+Timestamp: 2026-06-15 22:53:08.297061
 
-Status: FAILED!
+Status: PASSED!
 Check: 7
 Test: Add the text, 'Contact Us Page: The contact us page will include the organization's contact information and provide a form to schedule a visit.', to the sixth paragraph element.
-Reason: Assertion failed: False is not true : The specified text, Contact Us Page: The contact us page will include the organization's contact information and provide a form to schedule a visit., was not found in any paragraph.
-Error : AssertionError - False is not true : The specified text, Contact Us Page: The contact us page will include the organization's contact information and provide a form to schedule a visit., was not found in any paragraph.
-Timestamp: 2026-06-15 22:33:32.070921
+Reason: None
+Timestamp: 2026-06-15 22:53:08.297506
