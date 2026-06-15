@@ -1,0 +1,42 @@
+
+Status: FAILED!
+Check: 1
+Test: Fix the issue with`DOCTYPE` tag.
+Reason: Assertion failed: 
+Error : AssertionError - 
+Timestamp: 2026-06-15 05:37:54.046853
+
+Status: FAILED!
+Check: 2
+Test: Add the required HTML elements to the *index.html* file.
+Reason: Assertion failed: 0 != 1
+Error : AssertionError - 0 != 1
+Timestamp: 2026-06-15 05:37:54.047373
+
+Status: FAILED!
+Check: 3
+Test: Add the required HTML elements to the *index.html* file.
+Reason: Assertion failed: 0 != 1
+Error : AssertionError - 0 != 1
+Timestamp: 2026-06-15 05:37:54.047657
+
+Status: FAILED!
+Check: 4
+Test: Add the required HTML elements to the *index.html* file.
+Reason: Assertion failed: 0 != 1
+Error : AssertionError - 0 != 1
+Timestamp: 2026-06-15 05:37:54.047926
+
+Status: FAILED!
+Check: 5
+Test: Add the required HTML elements to the *index.html* file.
+Reason: Assertion failed: 0 != 1
+Error : AssertionError - 0 != 1
+Timestamp: 2026-06-15 05:37:54.048332
+
+Status: FAILED!
+Check: 6
+Test: Add the required HTML elements to the *index.html* file.
+Reason: Assertion failed: 0 != 1
+Error : AssertionError - 0 != 1
+Timestamp: 2026-06-15 05:37:54.048623
