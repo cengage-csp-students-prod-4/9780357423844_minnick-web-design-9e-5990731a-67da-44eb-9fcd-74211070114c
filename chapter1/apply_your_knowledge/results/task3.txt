@@ -3,4 +3,4 @@ Status: PASSED!
 Check: 1
 Test: Add and specify the `charset` attribute.
 Reason: None
-Timestamp: 2026-06-14 20:11:15.300301
+Timestamp: 2026-06-15 04:29:22.643564
