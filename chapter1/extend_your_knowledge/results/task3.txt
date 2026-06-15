@@ -1,0 +1,6 @@
+
+Status: PASSED!
+Check: 1
+Test: Add and specify the `charset` attribute.
+Reason: None
+Timestamp: 2026-06-15 06:03:31.090585
