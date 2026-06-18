@@ -1,0 +1,41 @@
+
+Status: FAILED!
+Check: 1
+Test: Validate the HTML file
+Reason: Assertion failed: 
+Error : AssertionError - 
+Timestamp: 2026-06-18 06:06:41.809039
+
+Status: PASSED!
+Check: 2
+Test: Check the language attribute
+Reason: None
+Timestamp: 2026-06-18 06:06:41.809372
+
+Status: FAILED!
+Check: 3
+Test: Check the character set
+Reason: Assertion failed: 
+Error : AssertionError - 
+Timestamp: 2026-06-18 06:06:41.809484
+
+Status: FAILED!
+Check: 4
+Test: Check for spelling errors
+Reason: Assertion failed: 
+Error : AssertionError - 
+Timestamp: 2026-06-18 06:06:41.809633
+
+Status: FAILED!
+Check: 5
+Test: Check for spelling errors
+Reason: Assertion failed: 
+Error : AssertionError - 
+Timestamp: 2026-06-18 06:06:41.809764
+
+Status: FAILED!
+Check: 6
+Test: Check for closing body tag
+Reason: Assertion failed: 
+Error : AssertionError - 
+Timestamp: 2026-06-18 06:06:41.809913
