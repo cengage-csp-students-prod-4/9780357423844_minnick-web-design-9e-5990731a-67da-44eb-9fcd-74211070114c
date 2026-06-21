@@ -1,0 +1,6 @@
+
+Status: PASSED!
+Check: 1
+Test: Add the `lang` attribute to the starting `html` tag and specify the language as English
+Reason: None
+Timestamp: 2026-06-21 22:38:43.104357
