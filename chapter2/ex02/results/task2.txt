@@ -1,18 +1,21 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Add a multiple-line comment, beginning on Line 2, that includes your name (firstname lastname)
-Reason: None
-Timestamp: 2026-06-22 05:25:23.824118
+Reason: Assertion failed: Expected comment not found in the file, Student Name: (firstname lastname)
+Error : AssertionError - Expected comment not found in the file, Student Name: (firstname lastname)
+Timestamp: 2026-06-22 05:31:33.916657
 
-Status: PASSED!
+Status: FAILED!
 Check: 2
 Test: Add a multiple-line comment, beginning on Line 2, that includes file name
-Reason: None
-Timestamp: 2026-06-22 05:25:23.825005
+Reason: Assertion failed: Expected comment not found in the file, File Name: template.html
+Error : AssertionError - Expected comment not found in the file, File Name: template.html
+Timestamp: 2026-06-22 05:31:33.917698
 
-Status: PASSED!
+Status: FAILED!
 Check: 3
 Test: Add a multiple-line comment, beginning on Line 2, that includes today’s date (MM/DD/YYYY)
-Reason: None
-Timestamp: 2026-06-22 05:25:23.825789
+Reason: Assertion failed: Expected comment not found in the file, Date: MM/DD/YYYY
+Error : AssertionError - Expected comment not found in the file, Date: MM/DD/YYYY
+Timestamp: 2026-06-22 05:31:33.918522
