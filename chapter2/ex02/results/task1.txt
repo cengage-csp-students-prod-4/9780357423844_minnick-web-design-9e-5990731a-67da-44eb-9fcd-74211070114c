@@ -1,0 +1,42 @@
+
+Status: FAILED!
+Check: 1
+Test: Add the `html` tag to the *template.html* file
+Reason: Assertion failed: Expected one html tag in the file, found 0
+Error : AssertionError - Expected one html tag in the file, found 0
+Timestamp: 2026-06-22 05:18:48.920196
+
+Status: FAILED!
+Check: 2
+Test: Add the `head` tag to the *template.html* file
+Reason: Assertion failed: Expected one head tag in the file, found 0
+Error : AssertionError - Expected one head tag in the file, found 0
+Timestamp: 2026-06-22 05:18:48.920432
+
+Status: FAILED!
+Check: 3
+Test: Add the `title` tag to the *template.html* file
+Reason: Assertion failed: Expected one title tag in the file, found 0
+Error : AssertionError - Expected one title tag in the file, found 0
+Timestamp: 2026-06-22 05:18:48.920563
+
+Status: FAILED!
+Check: 4
+Test: Add the `meta` tag to the *template.html* file
+Reason: Assertion failed: Expected one meta tag in the file, found 0
+Error : AssertionError - Expected one meta tag in the file, found 0
+Timestamp: 2026-06-22 05:18:48.920669
+
+Status: FAILED!
+Check: 5
+Test: Add the `body` tag to the *template.html* file
+Reason: Assertion failed: Expected one body tag in the file, found 0
+Error : AssertionError - Expected one body tag in the file, found 0
+Timestamp: 2026-06-22 05:18:48.920765
+
+Status: FAILED!
+Check: 6
+Test: Add the `<!DOCTYPE html>` tag to the *template.html* file
+Reason: Assertion failed: Expected <!DOCTYPE html> tag in the file, not found
+Error : AssertionError - Expected <!DOCTYPE html> tag in the file, not found
+Timestamp: 2026-06-22 05:18:48.920861
