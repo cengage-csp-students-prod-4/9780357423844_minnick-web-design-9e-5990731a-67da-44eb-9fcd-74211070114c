@@ -1,36 +1,41 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Add the `html` tag to the *template.html* file
-Reason: None
-Timestamp: 2026-06-22 05:25:13.955008
+Reason: Assertion failed: Expected one html tag in the file, found 2
+Error : AssertionError - Expected one html tag in the file, found 2
+Timestamp: 2026-06-22 05:31:08.958117
 
-Status: PASSED!
+Status: FAILED!
 Check: 2
 Test: Add the `head` tag to the *template.html* file
-Reason: None
-Timestamp: 2026-06-22 05:25:13.956309
+Reason: Assertion failed: Expected one head tag in the file, found 2
+Error : AssertionError - Expected one head tag in the file, found 2
+Timestamp: 2026-06-22 05:31:08.959422
 
-Status: PASSED!
+Status: FAILED!
 Check: 3
 Test: Add the `title` tag to the *template.html* file
-Reason: None
-Timestamp: 2026-06-22 05:25:13.957764
+Reason: Assertion failed: Expected one title tag in the file, found 2
+Error : AssertionError - Expected one title tag in the file, found 2
+Timestamp: 2026-06-22 05:31:08.960455
 
-Status: PASSED!
+Status: FAILED!
 Check: 4
 Test: Add the `meta` tag to the *template.html* file
-Reason: None
-Timestamp: 2026-06-22 05:25:13.958891
+Reason: Assertion failed: Expected one meta tag in the file, found 2
+Error : AssertionError - Expected one meta tag in the file, found 2
+Timestamp: 2026-06-22 05:31:08.961428
 
-Status: PASSED!
+Status: FAILED!
 Check: 5
 Test: Add the `body` tag to the *template.html* file
-Reason: None
-Timestamp: 2026-06-22 05:25:13.960085
+Reason: Assertion failed: Expected one body tag in the file, found 2
+Error : AssertionError - Expected one body tag in the file, found 2
+Timestamp: 2026-06-22 05:31:08.962520
 
 Status: PASSED!
 Check: 6
 Test: Add the `<!DOCTYPE html>` tag to the *template.html* file
 Reason: None
-Timestamp: 2026-06-22 05:25:13.961723
+Timestamp: 2026-06-22 05:31:08.963779
