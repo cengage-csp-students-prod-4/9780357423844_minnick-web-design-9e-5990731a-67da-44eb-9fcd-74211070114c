@@ -1,21 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add a multiple-line comment, beginning on Line 2, that includes your name (firstname lastname)
-Reason: Assertion failed: No comments found in the file
-Error : AssertionError - No comments found in the file
-Timestamp: 2026-06-22 05:42:25.988007
+Reason: None
+Timestamp: 2026-06-22 06:31:05.836095
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add a multiple-line comment, beginning on Line 2, that includes file name
-Reason: Assertion failed: No comments found in the file
-Error : AssertionError - No comments found in the file
-Timestamp: 2026-06-22 05:42:25.988760
+Reason: None
+Timestamp: 2026-06-22 06:31:05.836829
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Add a multiple-line comment, beginning on Line 2, that includes today’s date (MM/DD/YYYY)
-Reason: Assertion failed: No comments found in the file
-Error : AssertionError - No comments found in the file
-Timestamp: 2026-06-22 05:42:25.989365
+Reason: None
+Timestamp: 2026-06-22 06:31:05.837519
