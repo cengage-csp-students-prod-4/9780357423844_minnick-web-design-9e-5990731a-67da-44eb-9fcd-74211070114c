@@ -1,34 +1,31 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Update the comment with **the file name**
-Reason: Unable to find 'File Name: html.html' in the program.
-Error : str - AssertionError
-Timestamp: 2026-06-23 08:38:45.220647
+Reason: 'File Name: html.html' was found in the program output.None
+Timestamp: 2026-06-23 08:50:09.999104
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Update the comment with **today’s date** (MM/DD/YYYY)
-Reason: Unable to find 'Date: MM/DD/YYYY' in the program.
-Error : str - AssertionError
-Timestamp: 2026-06-23 08:38:45.221188
+Reason: 'Date: MM/DD/YYYY' was found in the program output.None
+Timestamp: 2026-06-23 08:50:09.999470
 
 Status: PASSED!
 Check: 4
 Test: Add the same image from *Task 2*
 Reason: None
-Timestamp: 2026-06-23 08:38:45.223057
+Timestamp: 2026-06-23 08:50:10.001169
 
 Status: FAILED!
 Check: 5
 Test: Add the `nav` links from *Task 3*
 Reason: Assertion failed: Expected 2 `a` elements within the `nav` element but got 0
 Error : AssertionError - Expected 2 `a` elements within the `nav` element but got 0
-Timestamp: 2026-06-23 08:38:45.224210
+Timestamp: 2026-06-23 08:50:10.002327
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Update the comment with **your name** (firstname lastname)
-Reason: Unable to find 'Student Name: firstname lastname' in the program.
-Error : str - AssertionError
-Timestamp: 2026-06-23 08:38:45.225369
+Reason: 'Student Name: firstname lastname' was found in the program output.None
+Timestamp: 2026-06-23 08:50:10.003555
