@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Added an absolute link to the text, **W3Schools.com**, that links to 'https://www.w3schools.com/html/html5_semantic_elements.asp' in the last paragraph element
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find_all'
-Error : AttributeError - 'NoneType' object has no attribute 'find_all'
-Timestamp: 2026-06-23 08:22:51.950743
+Reason: None
+Timestamp: 2026-06-23 08:38:41.679536
