@@ -3,29 +3,28 @@ Status: PASSED!
 Check: 2
 Test: Update the comment with **the file name**
 Reason: 'File Name: html.html' was found in the program output.None
-Timestamp: 2026-06-23 09:17:25.487768
+Timestamp: 2026-06-23 09:43:57.894428
 
 Status: PASSED!
 Check: 3
 Test: Update the comment with **today’s date** (MM/DD/YYYY)
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2026-06-23 09:17:25.488145
+Timestamp: 2026-06-23 09:43:57.894800
 
 Status: PASSED!
 Check: 4
 Test: Add the same image from *Task 2*
 Reason: None
-Timestamp: 2026-06-23 09:17:25.489893
+Timestamp: 2026-06-23 09:43:57.896424
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: Add the `nav` links from *Task 3*
-Reason: Assertion failed: Expected 2 `a` elements within the `nav` element but got 0
-Error : AssertionError - Expected 2 `a` elements within the `nav` element but got 0
-Timestamp: 2026-06-23 09:17:25.491114
+Reason: None
+Timestamp: 2026-06-23 09:43:57.897523
 
 Status: PASSED!
 Check: 1
 Test: Update the comment with **your name** (firstname lastname)
 Reason: 'Student Name: firstname lastname' was found in the program output.None
-Timestamp: 2026-06-23 09:17:25.492436
+Timestamp: 2026-06-23 09:43:57.898567
