@@ -1,0 +1,196 @@
+
+Status: FAILED!
+Check: 1
+Test: Nested an `img` element within the header element below the heading element
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"header img"}
+  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55881407929a <unknown>
+#1 0x558813a5b449 <unknown>
+#2 0x558813aafbaf <unknown>
+#3 0x558813aafe01 <unknown>
+#4 0x558813afaae4 <unknown>
+#5 0x558813af7cbf <unknown>
+#6 0x558813aa3132 <unknown>
+#7 0x558813aa3f41 <unknown>
+#8 0x55881403f737 <unknown>
+#9 0x55881403df39 <unknown>
+#10 0x558814028c26 <unknown>
+#11 0x55881403eada <unknown>
+#12 0x558814010bd0 <unknown>
+#13 0x558814065c28 <unknown>
+#14 0x558814065dc5 <unknown>
+#15 0x558814077e1e <unknown>
+#16 0x7f926809caa4 <unknown>
+#17 0x7f9268129c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"header img"}
+  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55881407929a <unknown>
+#1 0x558813a5b449 <unknown>
+#2 0x558813aafbaf <unknown>
+#3 0x558813aafe01 <unknown>
+#4 0x558813afaae4 <unknown>
+#5 0x558813af7cbf <unknown>
+#6 0x558813aa3132 <unknown>
+#7 0x558813aa3f41 <unknown>
+#8 0x55881403f737 <unknown>
+#9 0x55881403df39 <unknown>
+#10 0x558814028c26 <unknown>
+#11 0x55881403eada <unknown>
+#12 0x558814010bd0 <unknown>
+#13 0x558814065c28 <unknown>
+#14 0x558814065dc5 <unknown>
+#15 0x558814077e1e <unknown>
+#16 0x7f926809caa4 <unknown>
+#17 0x7f9268129c6c <unknown>
+
+Timestamp: 2026-06-23 08:00:23.793648
+
+Status: FAILED!
+Check: 2
+Test: Added an `alt` attribute with a value of **computer with the text web design**
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"header img"}
+  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55881407929a <unknown>
+#1 0x558813a5b449 <unknown>
+#2 0x558813aafbaf <unknown>
+#3 0x558813aafe01 <unknown>
+#4 0x558813afaae4 <unknown>
+#5 0x558813af7cbf <unknown>
+#6 0x558813aa3132 <unknown>
+#7 0x558813aa3f41 <unknown>
+#8 0x55881403f737 <unknown>
+#9 0x55881403df39 <unknown>
+#10 0x558814028c26 <unknown>
+#11 0x55881403eada <unknown>
+#12 0x558814010bd0 <unknown>
+#13 0x558814065c28 <unknown>
+#14 0x558814065dc5 <unknown>
+#15 0x558814077e1e <unknown>
+#16 0x7f926809caa4 <unknown>
+#17 0x7f9268129c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"header img"}
+  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55881407929a <unknown>
+#1 0x558813a5b449 <unknown>
+#2 0x558813aafbaf <unknown>
+#3 0x558813aafe01 <unknown>
+#4 0x558813afaae4 <unknown>
+#5 0x558813af7cbf <unknown>
+#6 0x558813aa3132 <unknown>
+#7 0x558813aa3f41 <unknown>
+#8 0x55881403f737 <unknown>
+#9 0x55881403df39 <unknown>
+#10 0x558814028c26 <unknown>
+#11 0x55881403eada <unknown>
+#12 0x558814010bd0 <unknown>
+#13 0x558814065c28 <unknown>
+#14 0x558814065dc5 <unknown>
+#15 0x558814077e1e <unknown>
+#16 0x7f926809caa4 <unknown>
+#17 0x7f9268129c6c <unknown>
+
+Timestamp: 2026-06-23 08:00:24.828244
+
+Status: FAILED!
+Check: 3
+Test: Added a `height` attribute with a value of **326px**
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"header img"}
+  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55881407929a <unknown>
+#1 0x558813a5b449 <unknown>
+#2 0x558813aafbaf <unknown>
+#3 0x558813aafe01 <unknown>
+#4 0x558813afaae4 <unknown>
+#5 0x558813af7cbf <unknown>
+#6 0x558813aa3132 <unknown>
+#7 0x558813aa3f41 <unknown>
+#8 0x55881403f737 <unknown>
+#9 0x55881403df39 <unknown>
+#10 0x558814028c26 <unknown>
+#11 0x55881403eada <unknown>
+#12 0x558814010bd0 <unknown>
+#13 0x558814065c28 <unknown>
+#14 0x558814065dc5 <unknown>
+#15 0x558814077e1e <unknown>
+#16 0x7f926809caa4 <unknown>
+#17 0x7f9268129c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"header img"}
+  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55881407929a <unknown>
+#1 0x558813a5b449 <unknown>
+#2 0x558813aafbaf <unknown>
+#3 0x558813aafe01 <unknown>
+#4 0x558813afaae4 <unknown>
+#5 0x558813af7cbf <unknown>
+#6 0x558813aa3132 <unknown>
+#7 0x558813aa3f41 <unknown>
+#8 0x55881403f737 <unknown>
+#9 0x55881403df39 <unknown>
+#10 0x558814028c26 <unknown>
+#11 0x55881403eada <unknown>
+#12 0x558814010bd0 <unknown>
+#13 0x558814065c28 <unknown>
+#14 0x558814065dc5 <unknown>
+#15 0x558814077e1e <unknown>
+#16 0x7f926809caa4 <unknown>
+#17 0x7f9268129c6c <unknown>
+
+Timestamp: 2026-06-23 08:00:25.880997
+
+Status: FAILED!
+Check: 4
+Test: Added a `width` attribute with a value of **450px**
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"header img"}
+  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55881407929a <unknown>
+#1 0x558813a5b449 <unknown>
+#2 0x558813aafbaf <unknown>
+#3 0x558813aafe01 <unknown>
+#4 0x558813afaae4 <unknown>
+#5 0x558813af7cbf <unknown>
+#6 0x558813aa3132 <unknown>
+#7 0x558813aa3f41 <unknown>
+#8 0x55881403f737 <unknown>
+#9 0x55881403df39 <unknown>
+#10 0x558814028c26 <unknown>
+#11 0x55881403eada <unknown>
+#12 0x558814010bd0 <unknown>
+#13 0x558814065c28 <unknown>
+#14 0x558814065dc5 <unknown>
+#15 0x558814077e1e <unknown>
+#16 0x7f926809caa4 <unknown>
+#17 0x7f9268129c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"header img"}
+  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55881407929a <unknown>
+#1 0x558813a5b449 <unknown>
+#2 0x558813aafbaf <unknown>
+#3 0x558813aafe01 <unknown>
+#4 0x558813afaae4 <unknown>
+#5 0x558813af7cbf <unknown>
+#6 0x558813aa3132 <unknown>
+#7 0x558813aa3f41 <unknown>
+#8 0x55881403f737 <unknown>
+#9 0x55881403df39 <unknown>
+#10 0x558814028c26 <unknown>
+#11 0x55881403eada <unknown>
+#12 0x558814010bd0 <unknown>
+#13 0x558814065c28 <unknown>
+#14 0x558814065dc5 <unknown>
+#15 0x558814077e1e <unknown>
+#16 0x7f926809caa4 <unknown>
+#17 0x7f9268129c6c <unknown>
+
+Timestamp: 2026-06-23 08:00:26.906090
