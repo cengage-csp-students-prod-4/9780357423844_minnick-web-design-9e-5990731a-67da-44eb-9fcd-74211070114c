@@ -1,0 +1,26 @@
+
+Status: FAILED!
+Check: 2
+Test: Add the missing `alt` attribute to the image element.
+Reason: Assertion failed: Expected alt attribute to be 'hand writing HTML 5' but got Hand Writing HTML 5
+Error : AssertionError - Expected alt attribute to be 'hand writing HTML 5' but got Hand Writing HTML 5
+Timestamp: 2026-06-24 02:11:36.721047
+
+Status: PASSED!
+Check: 3
+Test: Add the missing `height` attribute to the image element.
+Reason: None
+Timestamp: 2026-06-24 02:11:36.722278
+
+Status: PASSED!
+Check: 4
+Test: Add the missing `width` attribute to the image element.
+Reason: None
+Timestamp: 2026-06-24 02:11:36.723442
+
+Status: FAILED!
+Check: 1
+Test: Correct the image element with the correct value for the source attribute.
+Reason: Assertion failed: Expected src attribute to be 'images/hand-writing-html5.jpg' but got html5.jpg
+Error : AssertionError - Expected src attribute to be 'images/hand-writing-html5.jpg' but got html5.jpg
+Timestamp: 2026-06-24 02:11:36.724399
