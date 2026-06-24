@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 3
+Test: Update the text in the title element to About Us.
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
+Timestamp: 2026-06-24 15:03:10.261984
