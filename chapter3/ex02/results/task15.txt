@@ -1,35 +1,30 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add an id attribute with a value of contact to the div element within the main element.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
-Timestamp: 2026-06-24 15:03:15.103704
+Reason: None
+Timestamp: 2026-06-27 07:34:35.919271
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add an h2 element with the text 'You can reach us at:' to the div element.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
-Timestamp: 2026-06-24 15:03:15.103970
+Reason: None
+Timestamp: 2026-06-27 07:34:35.920514
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Add a paragraph element with the text 'Office: (814) 555-8989' to the div element.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
-Timestamp: 2026-06-24 15:03:15.104127
+Reason: None
+Timestamp: 2026-06-27 07:34:35.921598
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Add a paragraph element with the text 'Email: <a href="mailto:contact@wildrescues .net">contact@wildrescues.net</a>' to the div element.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
-Timestamp: 2026-06-24 15:03:15.104262
+Reason: None
+Timestamp: 2026-06-27 07:34:35.922629
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: Add a paragraph element with the text 'Address: <a href="https://goo.gl/maps/BTJzjc2tALd4RDWA8" target="_blank">8989 Rescue Drive, Ocala, FL 34471</a>' to the div element.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
-Timestamp: 2026-06-24 15:03:15.104415
+Reason: None
+Timestamp: 2026-06-27 07:34:35.923745

@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Link the text content '8989 Rescue Drive, Ocala, FL 34471' to an online location map of Ocala, FL.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
-Timestamp: 2026-06-24 15:03:16.321044
+Reason: None
+Timestamp: 2026-06-27 07:34:37.113177
