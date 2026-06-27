@@ -3,41 +3,41 @@ Status: PASSED!
 Check: 1
 Test: Add an id attribute with a value of info to the div element within the main element.
 Reason: None
-Timestamp: 2026-06-27 07:34:32.437383
+Timestamp: 2026-06-27 07:47:19.694141
 
 Status: PASSED!
 Check: 2
 Test: Add an h2 element with the text content, About Us, to the div element.
 Reason: None
-Timestamp: 2026-06-27 07:34:32.438706
+Timestamp: 2026-06-27 07:47:19.695499
 
 Status: PASSED!
 Check: 3
 Test: Add a paragraph element with the specified text content to the div element.
 Reason: None
-Timestamp: 2026-06-27 07:34:32.440066
+Timestamp: 2026-06-27 07:47:19.696864
 
 Status: FAILED!
 Check: 4
 Test: Add a paragraph element with the specified text content to the div element and link the text content to https://www.nwrawildlife.org/.
 Reason: Assertion failed: Anchor element should have text of 'National Wildlife Rehabilitators Association.'.
 Error : AssertionError - Anchor element should have text of 'National Wildlife Rehabilitators Association.'.
-Timestamp: 2026-06-27 07:34:32.441368
+Timestamp: 2026-06-27 07:47:19.698195
 
 Status: PASSED!
 Check: 5
 Test: Add an image element to the div element with the specified attributes.
 Reason: None
-Timestamp: 2026-06-27 07:34:32.442719
+Timestamp: 2026-06-27 07:47:19.699601
 
 Status: PASSED!
 Check: 6
 Test: Add an h3 element with the text content, We help many animals, such as:, to the div element.
 Reason: None
-Timestamp: 2026-06-27 07:34:32.444096
+Timestamp: 2026-06-27 07:47:19.700985
 
 Status: PASSED!
 Check: 7
 Test: Add an unordered list with the specified list items to the div element.
 Reason: None
-Timestamp: 2026-06-27 07:34:32.445536
+Timestamp: 2026-06-27 07:47:19.702479
