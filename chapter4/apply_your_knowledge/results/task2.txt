@@ -1,0 +1,12 @@
+
+Status: PASSED!
+Check: 1
+Test: Update the nav element to use an unordered list
+Reason: None
+Timestamp: 2026-06-28 23:56:50.774371
+
+Status: PASSED!
+Check: 2
+Test: Wrap each anchor within a list item
+Reason: None
+Timestamp: 2026-06-28 23:56:50.775546

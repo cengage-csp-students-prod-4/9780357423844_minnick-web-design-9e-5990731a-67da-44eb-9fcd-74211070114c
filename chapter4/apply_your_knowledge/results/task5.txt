@@ -1,0 +1,14 @@
+
+Status: FAILED!
+Check: 1
+Test: Add a comment with the text CSS Reset
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'css/styles.css'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'css/styles.css'
+Timestamp: 2026-06-28 23:56:54.319133
+
+Status: FAILED!
+Check: 2
+Test: Add a CSS reset style rule that sets the margin, padding, and border to zero for the body, header, nav, main, footer, img, h1, and h3 selectors
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'css/styles.css'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'css/styles.css'
+Timestamp: 2026-06-28 23:56:54.319390
