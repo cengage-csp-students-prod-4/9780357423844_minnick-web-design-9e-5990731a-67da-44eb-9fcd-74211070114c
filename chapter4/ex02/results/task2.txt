@@ -1,42 +1,36 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Check if the css folder has been created
-Reason: Assertion failed: css folder not found in the rescue directory
-Error : AssertionError - css folder not found in the rescue directory
-Timestamp: 2026-07-06 07:22:28.152167
+Reason: None
+Timestamp: 2026-07-06 07:32:19.776844
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Check if the styles.css file has been created
-Reason: Assertion failed: styles.css file not found in the css directory
-Error : AssertionError - styles.css file not found in the css directory
-Timestamp: 2026-07-06 07:22:28.152440
+Reason: None
+Timestamp: 2026-07-06 07:32:19.777021
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Check if the link to the styles.css file has been added to the index.html file
-Reason: Assertion failed: Link to styles.css file not found in the index.html file
-Error : AssertionError - Link to styles.css file not found in the index.html file
-Timestamp: 2026-07-06 07:22:28.153602
+Reason: None
+Timestamp: 2026-07-06 07:32:19.778382
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Check if the link to the styles.css file has been added to the about.html file
-Reason: Assertion failed: Link to styles.css file not found in the about.html file
-Error : AssertionError - Link to styles.css file not found in the about.html file
-Timestamp: 2026-07-06 07:22:28.154913
+Reason: None
+Timestamp: 2026-07-06 07:32:19.779941
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: Check if the link to the styles.css file has been added to the contact.html file
-Reason: Assertion failed: Link to styles.css file not found in the contact.html file
-Error : AssertionError - Link to styles.css file not found in the contact.html file
-Timestamp: 2026-07-06 07:22:28.155815
+Reason: None
+Timestamp: 2026-07-06 07:32:19.781064
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: Check if the link to the styles.css file has been added to the template.html file
-Reason: Assertion failed: Link to styles.css file not found in the template.html file
-Error : AssertionError - Link to styles.css file not found in the template.html file
-Timestamp: 2026-07-06 07:22:28.156587
+Reason: None
+Timestamp: 2026-07-06 07:32:19.782039

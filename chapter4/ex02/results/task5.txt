@@ -1,21 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add a comment with the text Style rules for body and images
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/css/styles.css'
-Timestamp: 2026-07-06 07:22:31.866716
+Reason: None
+Timestamp: 2026-07-06 07:32:23.446482
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add a style rule for the body selector that sets a background color value of #f6eee4
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/css/styles.css'
-Timestamp: 2026-07-06 07:22:31.866998
+Reason: None
+Timestamp: 2026-07-06 07:32:23.446755
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Add a style rule for the img selector that sets a max-width to 100% and displays images as a block
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/css/styles.css'
-Timestamp: 2026-07-06 07:22:31.867168
+Reason: None
+Timestamp: 2026-07-06 07:32:23.447023

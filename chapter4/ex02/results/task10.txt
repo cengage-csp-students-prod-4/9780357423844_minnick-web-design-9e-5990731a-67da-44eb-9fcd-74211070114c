@@ -1,21 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Remove the two heading elements (h1 and h3) within the header element in the index.html file
-Reason: Assertion failed: h1 and h3 elements are not removed from the header element
-Error : AssertionError - h1 and h3 elements are not removed from the header element
-Timestamp: 2026-07-06 07:22:48.535669
+Reason: None
+Timestamp: 2026-07-06 07:32:31.320685
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Nest an image element within the header and wrap the image within an anchor element that links to the index.html file
-Reason: Assertion failed: anchor element not found
-Error : AssertionError - anchor element not found
-Timestamp: 2026-07-06 07:22:48.536900
+Reason: None
+Timestamp: 2026-07-06 07:32:31.322060
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Remove the height and width attributes from the baby raccoons image (img) element in the index.html file
-Reason: Assertion failed: height attribute not removed
-Error : AssertionError - height attribute not removed
-Timestamp: 2026-07-06 07:22:48.537851
+Reason: None
+Timestamp: 2026-07-06 07:32:31.323227
