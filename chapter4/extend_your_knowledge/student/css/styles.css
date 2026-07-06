@@ -1,6 +1,6 @@
 /*
-Author: Maria Cruz
-Date: Current Date
+Author: Mike Dahlin
+Date: 07/06/2026
 File Name: styles.css
 */
 
@@ -59,8 +59,46 @@ main a {
 
 /* Orange */
 
+.orange-hex {
+    background-color: #FF8C00;
+}
+
+.orange-rgb {
+    background-color: rgb(255, 140, 0);
+}
+
+.orange-hsl {
+    background-color: hsl(33, 100%, 50%);
+}
 
 /* Purple */
 
+.purple-hex {
+    background-color: #8A2BE2;
+}
+
+.purple-rgb {
+    background-color: rgb(138, 43, 226);
+}
+
+.purple-hsl {
+    background-color: hsl(271, 76%, 53%);
+}
 
 /* Green */
+
+.green-hex {
+    background-color: #228B22;
+}
+
+.green-rgb {
+    background-color: rgb(34, 139, 34);
+}
+
+.green-hsl {
+    background-color: hsl(120, 61%, 34%);
+}
+
+.footer-bg {
+    background-color: #ADD8E6;
+}
