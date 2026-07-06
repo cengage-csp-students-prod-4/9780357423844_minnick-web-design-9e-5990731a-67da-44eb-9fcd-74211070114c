@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 1
+Test: Add a class attribute with the value link to the email anchor element
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
+Timestamp: 2026-07-06 07:04:03.880755

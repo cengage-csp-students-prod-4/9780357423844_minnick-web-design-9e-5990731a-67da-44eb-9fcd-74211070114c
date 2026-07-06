@@ -1,0 +1,14 @@
+
+Status: FAILED!
+Check: 3
+Test: Move the images provided in the resources folder to the images folder inside the rescue directory.
+Reason: Assertion failed: Can't find the images folder inside the rescue directory.
+Error : AssertionError - Can't find the images folder inside the rescue directory.
+Timestamp: 2026-07-06 07:03:27.648958
+
+Status: FAILED!
+Check: 2
+Test: Move the images provided in the resources folder to the images folder inside the rescue directory.
+Reason: Assertion failed: Can't find the images folder inside the rescue directory.
+Error : AssertionError - Can't find the images folder inside the rescue directory.
+Timestamp: 2026-07-06 07:03:27.649196

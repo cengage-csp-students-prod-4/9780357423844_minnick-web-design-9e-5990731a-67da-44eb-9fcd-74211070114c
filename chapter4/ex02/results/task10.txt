@@ -1,0 +1,21 @@
+
+Status: FAILED!
+Check: 2
+Test: Remove the two heading elements (h1 and h3) within the header element in the index.html file
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/index.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/index.html'
+Timestamp: 2026-07-06 07:04:02.743905
+
+Status: FAILED!
+Check: 3
+Test: Nest an image element within the header and wrap the image within an anchor element that links to the index.html file
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/index.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/index.html'
+Timestamp: 2026-07-06 07:04:02.744149
+
+Status: FAILED!
+Check: 4
+Test: Remove the height and width attributes from the baby raccoons image (img) element in the index.html file
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/index.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/index.html'
+Timestamp: 2026-07-06 07:04:02.744296

@@ -1,0 +1,42 @@
+
+Status: FAILED!
+Check: 1
+Test: Check if the css folder has been created
+Reason: Assertion failed: css folder not found in the rescue directory
+Error : AssertionError - css folder not found in the rescue directory
+Timestamp: 2026-07-06 07:03:37.016617
+
+Status: FAILED!
+Check: 2
+Test: Check if the styles.css file has been created
+Reason: Assertion failed: styles.css file not found in the css directory
+Error : AssertionError - styles.css file not found in the css directory
+Timestamp: 2026-07-06 07:03:37.016827
+
+Status: FAILED!
+Check: 3
+Test: Check if the link to the styles.css file has been added to the index.html file
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/index.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/index.html'
+Timestamp: 2026-07-06 07:03:37.016973
+
+Status: FAILED!
+Check: 4
+Test: Check if the link to the styles.css file has been added to the about.html file
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
+Timestamp: 2026-07-06 07:03:37.017125
+
+Status: FAILED!
+Check: 5
+Test: Check if the link to the styles.css file has been added to the contact.html file
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
+Timestamp: 2026-07-06 07:03:37.017249
+
+Status: FAILED!
+Check: 6
+Test: Check if the link to the styles.css file has been added to the template.html file
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/template.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/template.html'
+Timestamp: 2026-07-06 07:03:37.017367
