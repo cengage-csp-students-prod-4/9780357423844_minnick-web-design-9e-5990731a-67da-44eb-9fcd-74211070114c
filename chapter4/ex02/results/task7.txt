@@ -4,200 +4,32 @@ Check: 1
 Test: Add a blank line after the `nav li a` style rule, add a comment with the text **Style rules for main content**
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/css/styles.css'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/css/styles.css'
-Timestamp: 2026-07-06 07:03:47.413560
+Timestamp: 2026-07-06 07:15:51.764668
 
 Status: FAILED!
 Check: 2
 Test: Create a style rule for the main selector that sets the padding value to 2% and a font family with values Verdana, Arial, sans-serif
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"main"}
-  (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x5599ea36d3da <unknown>
-#1 0x5599e9d4f139 <unknown>
-#2 0x5599e9da3884 <unknown>
-#3 0x5599e9da3ad1 <unknown>
-#4 0x5599e9dee974 <unknown>
-#5 0x5599e9debb5c <unknown>
-#6 0x5599e9d96e4f <unknown>
-#7 0x5599e9d97c31 <unknown>
-#8 0x5599ea3339f7 <unknown>
-#9 0x5599ea332203 <unknown>
-#10 0x5599ea31cf16 <unknown>
-#11 0x5599ea332d9a <unknown>
-#12 0x5599ea304eb0 <unknown>
-#13 0x5599ea359d58 <unknown>
-#14 0x5599ea359ef5 <unknown>
-#15 0x5599ea36bf5e <unknown>
-#16 0x7f5ba849caa4 <unknown>
-#17 0x7f5ba8529c6c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"main"}
-  (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x5599ea36d3da <unknown>
-#1 0x5599e9d4f139 <unknown>
-#2 0x5599e9da3884 <unknown>
-#3 0x5599e9da3ad1 <unknown>
-#4 0x5599e9dee974 <unknown>
-#5 0x5599e9debb5c <unknown>
-#6 0x5599e9d96e4f <unknown>
-#7 0x5599e9d97c31 <unknown>
-#8 0x5599ea3339f7 <unknown>
-#9 0x5599ea332203 <unknown>
-#10 0x5599ea31cf16 <unknown>
-#11 0x5599ea332d9a <unknown>
-#12 0x5599ea304eb0 <unknown>
-#13 0x5599ea359d58 <unknown>
-#14 0x5599ea359ef5 <unknown>
-#15 0x5599ea36bf5e <unknown>
-#16 0x7f5ba849caa4 <unknown>
-#17 0x7f5ba8529c6c <unknown>
-
-Timestamp: 2026-07-06 07:03:48.449401
+Reason: Assertion failed: Padding value not set to 2%
+Error : AssertionError - Padding value not set to 2%
+Timestamp: 2026-07-06 07:15:51.801629
 
 Status: FAILED!
 Check: 3
 Test: Create a style rule for main p that sets the font size value to 1.25em
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"main p"}
-  (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x5599ea36d3da <unknown>
-#1 0x5599e9d4f139 <unknown>
-#2 0x5599e9da3884 <unknown>
-#3 0x5599e9da3ad1 <unknown>
-#4 0x5599e9dee974 <unknown>
-#5 0x5599e9debb5c <unknown>
-#6 0x5599e9d96e4f <unknown>
-#7 0x5599e9d97c31 <unknown>
-#8 0x5599ea3339f7 <unknown>
-#9 0x5599ea332203 <unknown>
-#10 0x5599ea31cf16 <unknown>
-#11 0x5599ea332d9a <unknown>
-#12 0x5599ea304eb0 <unknown>
-#13 0x5599ea359d58 <unknown>
-#14 0x5599ea359ef5 <unknown>
-#15 0x5599ea36bf5e <unknown>
-#16 0x7f5ba849caa4 <unknown>
-#17 0x7f5ba8529c6c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"main p"}
-  (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x5599ea36d3da <unknown>
-#1 0x5599e9d4f139 <unknown>
-#2 0x5599e9da3884 <unknown>
-#3 0x5599e9da3ad1 <unknown>
-#4 0x5599e9dee974 <unknown>
-#5 0x5599e9debb5c <unknown>
-#6 0x5599e9d96e4f <unknown>
-#7 0x5599e9d97c31 <unknown>
-#8 0x5599ea3339f7 <unknown>
-#9 0x5599ea332203 <unknown>
-#10 0x5599ea31cf16 <unknown>
-#11 0x5599ea332d9a <unknown>
-#12 0x5599ea304eb0 <unknown>
-#13 0x5599ea359d58 <unknown>
-#14 0x5599ea359ef5 <unknown>
-#15 0x5599ea36bf5e <unknown>
-#16 0x7f5ba849caa4 <unknown>
-#17 0x7f5ba8529c6c <unknown>
-
-Timestamp: 2026-07-06 07:03:49.481975
+Reason: Assertion failed: Font size not set to 1.25em
+Error : AssertionError - Font size not set to 1.25em
+Timestamp: 2026-07-06 07:15:51.824093
 
 Status: FAILED!
 Check: 4
 Test: Create a style rule for main h3 that sets the top padding value to 2%
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"main h3"}
-  (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x5599ea36d3da <unknown>
-#1 0x5599e9d4f139 <unknown>
-#2 0x5599e9da3884 <unknown>
-#3 0x5599e9da3ad1 <unknown>
-#4 0x5599e9dee974 <unknown>
-#5 0x5599e9debb5c <unknown>
-#6 0x5599e9d96e4f <unknown>
-#7 0x5599e9d97c31 <unknown>
-#8 0x5599ea3339f7 <unknown>
-#9 0x5599ea332203 <unknown>
-#10 0x5599ea31cf16 <unknown>
-#11 0x5599ea332d9a <unknown>
-#12 0x5599ea304eb0 <unknown>
-#13 0x5599ea359d58 <unknown>
-#14 0x5599ea359ef5 <unknown>
-#15 0x5599ea36bf5e <unknown>
-#16 0x7f5ba849caa4 <unknown>
-#17 0x7f5ba8529c6c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"main h3"}
-  (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x5599ea36d3da <unknown>
-#1 0x5599e9d4f139 <unknown>
-#2 0x5599e9da3884 <unknown>
-#3 0x5599e9da3ad1 <unknown>
-#4 0x5599e9dee974 <unknown>
-#5 0x5599e9debb5c <unknown>
-#6 0x5599e9d96e4f <unknown>
-#7 0x5599e9d97c31 <unknown>
-#8 0x5599ea3339f7 <unknown>
-#9 0x5599ea332203 <unknown>
-#10 0x5599ea31cf16 <unknown>
-#11 0x5599ea332d9a <unknown>
-#12 0x5599ea304eb0 <unknown>
-#13 0x5599ea359d58 <unknown>
-#14 0x5599ea359ef5 <unknown>
-#15 0x5599ea36bf5e <unknown>
-#16 0x7f5ba849caa4 <unknown>
-#17 0x7f5ba8529c6c <unknown>
-
-Timestamp: 2026-07-06 07:03:50.512092
+Reason: Assertion failed: Padding-top value not set to 2%
+Error : AssertionError - Padding-top value not set to 2%
+Timestamp: 2026-07-06 07:15:51.845398
 
 Status: FAILED!
 Check: 5
 Test: Create a style rule for main ul that sets the list style type value to square
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"main ul"}
-  (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x5599ea36d3da <unknown>
-#1 0x5599e9d4f139 <unknown>
-#2 0x5599e9da3884 <unknown>
-#3 0x5599e9da3ad1 <unknown>
-#4 0x5599e9dee974 <unknown>
-#5 0x5599e9debb5c <unknown>
-#6 0x5599e9d96e4f <unknown>
-#7 0x5599e9d97c31 <unknown>
-#8 0x5599ea3339f7 <unknown>
-#9 0x5599ea332203 <unknown>
-#10 0x5599ea31cf16 <unknown>
-#11 0x5599ea332d9a <unknown>
-#12 0x5599ea304eb0 <unknown>
-#13 0x5599ea359d58 <unknown>
-#14 0x5599ea359ef5 <unknown>
-#15 0x5599ea36bf5e <unknown>
-#16 0x7f5ba849caa4 <unknown>
-#17 0x7f5ba8529c6c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"main ul"}
-  (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x5599ea36d3da <unknown>
-#1 0x5599e9d4f139 <unknown>
-#2 0x5599e9da3884 <unknown>
-#3 0x5599e9da3ad1 <unknown>
-#4 0x5599e9dee974 <unknown>
-#5 0x5599e9debb5c <unknown>
-#6 0x5599e9d96e4f <unknown>
-#7 0x5599e9d97c31 <unknown>
-#8 0x5599ea3339f7 <unknown>
-#9 0x5599ea332203 <unknown>
-#10 0x5599ea31cf16 <unknown>
-#11 0x5599ea332d9a <unknown>
-#12 0x5599ea304eb0 <unknown>
-#13 0x5599ea359d58 <unknown>
-#14 0x5599ea359ef5 <unknown>
-#15 0x5599ea36bf5e <unknown>
-#16 0x7f5ba849caa4 <unknown>
-#17 0x7f5ba8529c6c <unknown>
-
-Timestamp: 2026-07-06 07:03:51.536223
+Reason: Assertion failed: List style type not set to square
+Error : AssertionError - List style type not set to square
+Timestamp: 2026-07-06 07:15:51.868391
