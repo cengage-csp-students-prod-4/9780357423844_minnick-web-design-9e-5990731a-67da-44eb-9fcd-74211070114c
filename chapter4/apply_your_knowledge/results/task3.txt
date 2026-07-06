@@ -2,20 +2,18 @@
 Status: FAILED!
 Check: 1
 Test: Update the comment with your name, file name, and today's date
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'css/styles.css'
-Timestamp: 2026-06-28 23:56:51.969733
+Reason: Assertion failed: Name not found in comment (Student Name: Firstname Lastname)
+Error : AssertionError - Name not found in comment (Student Name: Firstname Lastname)
+Timestamp: 2026-07-06 04:59:10.786757
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: File name added into the comment
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'css/styles.css'
-Timestamp: 2026-06-28 23:56:51.969992
+Reason: None
+Timestamp: 2026-07-06 04:59:10.787044
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Update the comment with today's date
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'css/styles.css'
-Timestamp: 2026-06-28 23:56:51.970142
+Reason: None
+Timestamp: 2026-07-06 04:59:10.787237

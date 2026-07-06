@@ -1,18 +1,19 @@
 
-Status: PASSED!
+Status: FAILED!
 Check: 1
 Test: Update the comment with your name, file name, and today's date
-Reason: None
-Timestamp: 2026-06-28 23:56:47.611073
+Reason: Assertion failed: Name not found in comment (Student Name: Firstname Lastname)
+Error : AssertionError - Name not found in comment (Student Name: Firstname Lastname)
+Timestamp: 2026-07-06 04:59:07.079581
 
 Status: PASSED!
 Check: 1
 Test: File name added into the comment
 Reason: None
-Timestamp: 2026-06-28 23:56:47.612228
+Timestamp: 2026-07-06 04:59:07.080998
 
 Status: PASSED!
 Check: 1
 Test: Update the comment with today's date
 Reason: None
-Timestamp: 2026-06-28 23:56:47.613195
+Timestamp: 2026-07-06 04:59:07.082159
