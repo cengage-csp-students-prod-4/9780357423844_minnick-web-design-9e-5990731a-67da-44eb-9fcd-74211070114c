@@ -3,11 +3,10 @@ Status: PASSED!
 Check: 1
 Test: Enter your name Firstname Lastname into the `Student Name:` field of index.html file. (e.g. Student Name: Firstname Lastname)
 Reason: 'Student Name: Firstname Lastname' was found in the program output.None
-Timestamp: 2026-07-07 08:03:56.285004
+Timestamp: 2026-07-07 08:05:58.326072
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Enter the file name into the `File Name:` field of index.html file. (e.g. File Name: index.html)
-Reason: Unable to find 'File Name: index.html' in the program.
-Error : str - AssertionError
-Timestamp: 2026-07-07 08:03:56.285296
+Reason: 'File Name: index.html' was found in the program output.None
+Timestamp: 2026-07-07 08:05:58.326278

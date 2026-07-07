@@ -1,14 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add a declaration to the `nav ul` style rule to remove the bullet marker
-Reason: Assertion failed: The `nav ul` style rule does not remove the bullet marker.
-Error : AssertionError - The `nav ul` style rule does not remove the bullet marker.
-Timestamp: 2026-07-07 08:04:10.786883
+Reason: None
+Timestamp: 2026-07-07 08:06:03.403315
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Add a declaration to the `nav li` style rule to display it as an inline-block.
-Reason: Assertion failed: The `nav li` style rule does not display it as an inline-block.
-Error : AssertionError - The `nav li` style rule does not display it as an inline-block.
-Timestamp: 2026-07-07 08:04:10.813219
+Reason: None
+Timestamp: 2026-07-07 08:06:03.426340
