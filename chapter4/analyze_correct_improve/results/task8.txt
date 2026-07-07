@@ -1,0 +1,6 @@
+
+Status: PASSED!
+Check: 1
+Test: Remove the underline from all `nav` links using the `text-decoration` property. 
+Reason: None
+Timestamp: 2026-07-07 01:59:43.820717
