@@ -1,0 +1,14 @@
+
+Status: FAILED!
+Check: 1
+Test: add the meta viewport element to the index.html file
+Reason: Assertion failed: The meta tag with the name: 'viewport' is missing.
+Error : AssertionError - The meta tag with the name: 'viewport' is missing.
+Timestamp: 2026-07-07 08:04:08.611323
+
+Status: FAILED!
+Check: 2
+Test: include the content attribute with the appropriate values
+Reason: Assertion failed: The meta tag with the name: 'viewport' is missing.
+Error : AssertionError - The meta tag with the name: 'viewport' is missing.
+Timestamp: 2026-07-07 08:04:08.612845
