@@ -47,6 +47,7 @@ nav li a {
 }
 
 /* Style rules for main content */
+
 main {
     padding: 2%;
     font-family: Verdana, Arial, sans-serif;
@@ -65,6 +66,7 @@ main ul {
 }
 
 /* Style rules for class and id selectors */
+
 .link {
     color: #4d3319;
     text-decoration: none;
@@ -83,6 +85,7 @@ main ul {
 }
 
 /* Style rules for footer content */
+
 footer {
     text-align: center;
     font-size: 0.85em;
@@ -94,22 +97,4 @@ footer {
 footer a {
     color: #f3e6d8;
     text-decoration: none;
-}
-
-/* Style rules for main content */
-main {
-    padding: 2%;
-    font-family: Verdana, Arial, sans-serif;
-}
-
-main p {
-    font-size: 1.25em;
-}
-
-main h3 {
-    padding-top: 2%;
-}
-
-main ul {
-    list-style-type: square;
 }
