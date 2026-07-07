@@ -95,3 +95,21 @@ footer a {
     color: #f3e6d8;
     text-decoration: none;
 }
+
+/* Style rules for main content */
+main {
+    padding: 2%;
+    font-family: Verdana, Arial, sans-serif;
+}
+
+main p {
+    font-size: 1.25em;
+}
+
+main h3 {
+    padding-top: 2%;
+}
+
+main ul {
+    list-style-type: square;
+}
