@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 1
+Test: create a new style rule for the `#info ul` selector that specifies a left margin of 10%.
+Reason: Assertion failed: The `margin-left` of the `#info ul` selector is not set to `10%`.
+Error : AssertionError - The `margin-left` of the `#info ul` selector is not set to `10%`.
+Timestamp: 2026-07-07 23:34:02.406669

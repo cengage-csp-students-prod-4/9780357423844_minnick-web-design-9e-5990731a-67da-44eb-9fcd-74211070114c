@@ -1,0 +1,137 @@
+
+Status: FAILED!
+Check: 1
+Test: Add the link to the google fonts in the head element of the index.html file.
+Reason: Assertion failed: No Google Fonts `link` elements found in the `head` element of the index.html file.
+Error : AssertionError - No Google Fonts `link` elements found in the `head` element of the index.html file.
+Timestamp: 2026-07-07 23:33:54.455620
+
+Status: FAILED!
+Check: 2
+Test: Add the link to the google fonts in the head element of the about.html file.
+Reason: Assertion failed: No Google Fonts `link` elements found in the `head` element of the about.html file.
+Error : AssertionError - No Google Fonts `link` elements found in the `head` element of the about.html file.
+Timestamp: 2026-07-07 23:33:54.460461
+
+Status: FAILED!
+Check: 3
+Test: Add the link to the google fonts in the head element of the contact.html file.
+Reason: Assertion failed: No Google Fonts `link` elements found in the `head` element of the contact.html file.
+Error : AssertionError - No Google Fonts `link` elements found in the `head` element of the contact.html file.
+Timestamp: 2026-07-07 23:33:54.463718
+
+Status: FAILED!
+Check: 4
+Test: Add the link to the google fonts in the head element of the template.html file.
+Reason: Assertion failed: No Google Fonts `link` elements found in the `head` element of the template.html file.
+Error : AssertionError - No Google Fonts `link` elements found in the `head` element of the template.html file.
+Timestamp: 2026-07-07 23:33:54.465512
+
+Status: FAILED!
+Check: 5
+Test: Add the style rule for the h1 selector within the mobile class in the styles.css file.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".mobile"}
+  (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x556b5498f3da <unknown>
+#1 0x556b54371139 <unknown>
+#2 0x556b543c5884 <unknown>
+#3 0x556b543c5ad1 <unknown>
+#4 0x556b543ba7c6 <unknown>
+#5 0x556b543ba6a7 <unknown>
+#6 0x556b5440db5c <unknown>
+#7 0x556b543b8e4f <unknown>
+#8 0x556b543b9c31 <unknown>
+#9 0x556b549559f7 <unknown>
+#10 0x556b54954203 <unknown>
+#11 0x556b5493ef16 <unknown>
+#12 0x556b54954d9a <unknown>
+#13 0x556b54926eb0 <unknown>
+#14 0x556b5497bd58 <unknown>
+#15 0x556b5497bef5 <unknown>
+#16 0x556b5498df5e <unknown>
+#17 0x7f2d1ea9caa4 <unknown>
+#18 0x7f2d1eb29c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".mobile"}
+  (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x556b5498f3da <unknown>
+#1 0x556b54371139 <unknown>
+#2 0x556b543c5884 <unknown>
+#3 0x556b543c5ad1 <unknown>
+#4 0x556b543ba7c6 <unknown>
+#5 0x556b543ba6a7 <unknown>
+#6 0x556b5440db5c <unknown>
+#7 0x556b543b8e4f <unknown>
+#8 0x556b543b9c31 <unknown>
+#9 0x556b549559f7 <unknown>
+#10 0x556b54954203 <unknown>
+#11 0x556b5493ef16 <unknown>
+#12 0x556b54954d9a <unknown>
+#13 0x556b54926eb0 <unknown>
+#14 0x556b5497bd58 <unknown>
+#15 0x556b5497bef5 <unknown>
+#16 0x556b5498df5e <unknown>
+#17 0x7f2d1ea9caa4 <unknown>
+#18 0x7f2d1eb29c6c <unknown>
+
+Timestamp: 2026-07-07 23:33:55.492190
+
+Status: FAILED!
+Check: 6
+Test: Add the style rule for the h3 selector within the mobile class in the styles.css file.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".mobile"}
+  (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x556b5498f3da <unknown>
+#1 0x556b54371139 <unknown>
+#2 0x556b543c5884 <unknown>
+#3 0x556b543c5ad1 <unknown>
+#4 0x556b543ba7c6 <unknown>
+#5 0x556b543ba6a7 <unknown>
+#6 0x556b5440db5c <unknown>
+#7 0x556b543b8e4f <unknown>
+#8 0x556b543b9c31 <unknown>
+#9 0x556b549559f7 <unknown>
+#10 0x556b54954203 <unknown>
+#11 0x556b5493ef16 <unknown>
+#12 0x556b54954d9a <unknown>
+#13 0x556b54926eb0 <unknown>
+#14 0x556b5497bd58 <unknown>
+#15 0x556b5497bef5 <unknown>
+#16 0x556b5498df5e <unknown>
+#17 0x7f2d1ea9caa4 <unknown>
+#18 0x7f2d1eb29c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".mobile"}
+  (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x556b5498f3da <unknown>
+#1 0x556b54371139 <unknown>
+#2 0x556b543c5884 <unknown>
+#3 0x556b543c5ad1 <unknown>
+#4 0x556b543ba7c6 <unknown>
+#5 0x556b543ba6a7 <unknown>
+#6 0x556b5440db5c <unknown>
+#7 0x556b543b8e4f <unknown>
+#8 0x556b543b9c31 <unknown>
+#9 0x556b549559f7 <unknown>
+#10 0x556b54954203 <unknown>
+#11 0x556b5493ef16 <unknown>
+#12 0x556b54954d9a <unknown>
+#13 0x556b54926eb0 <unknown>
+#14 0x556b5497bd58 <unknown>
+#15 0x556b5497bef5 <unknown>
+#16 0x556b5498df5e <unknown>
+#17 0x7f2d1ea9caa4 <unknown>
+#18 0x7f2d1eb29c6c <unknown>
+
+Timestamp: 2026-07-07 23:33:56.550853
+
+Status: FAILED!
+Check: 7
+Test: Add the style rule for the main selector in the styles.css file.
+Reason: Assertion failed: The `main` selector does not have the `Lora` font-family.
+Error : AssertionError - The `main` selector does not have the `Lora` font-family.
+Timestamp: 2026-07-07 23:33:56.598623

@@ -1,0 +1,20 @@
+
+Status: FAILED!
+Check: 1
+Test: Add the `ul` selector to the CSS reset style rule. 
+Reason: Assertion failed: The `ul` selector is missing from the CSS reset style rule. (body, header, nav, main, footer, img, h1, h3, ul {)
+Error : AssertionError - The `ul` selector is missing from the CSS reset style rule. (body, header, nav, main, footer, img, h1, h3, ul {)
+Timestamp: 2026-07-07 23:33:57.677663
+
+Status: PASSED!
+Check: 2
+Test: Remove the declaration for the `margin` property in the `nav ul` style rule.
+Reason: None
+Timestamp: 2026-07-07 23:33:57.728907
+
+Status: FAILED!
+Check: 3
+Test: Modify the `nav li` style rule by changing the `display` value to  **block** and add a top border that specifies a **solid border width** of **0.5px** with the `color` value **#f6eee4**.
+Reason: Assertion failed: The `display` value of the `nav li` style rule is not set to `block`.
+Error : AssertionError - The `display` value of the `nav li` style rule is not set to `block`.
+Timestamp: 2026-07-07 23:33:57.752831

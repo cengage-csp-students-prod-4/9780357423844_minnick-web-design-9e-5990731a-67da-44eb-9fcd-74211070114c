@@ -1,0 +1,14 @@
+
+Status: FAILED!
+Check: 1
+Test: In the *index.html* file, in the `header` element, wrap the anchor element within a `div` element with a `class` attribute value of **tab-desk**.
+Reason: Assertion failed: The `div` element with the `class` attribute value of `tab-desk` is missing from the `header` element.
+Error : AssertionError - The `div` element with the `class` attribute value of `tab-desk` is missing from the `header` element.
+Timestamp: 2026-07-07 23:33:45.843656
+
+Status: FAILED!
+Check: 2
+Test: In the *index.html* file, in the `header` element, create a new `div` element with a `class` attribute value of **mobile**.
+Reason: Assertion failed: The `div` element with the `class` attribute value of `mobile` is missing from the `header` element.
+Error : AssertionError - The `div` element with the `class` attribute value of `mobile` is missing from the `header` element.
+Timestamp: 2026-07-07 23:33:45.845165
