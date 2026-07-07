@@ -5,48 +5,48 @@ Test: Create a style rule for the class selector `link` that sets the font color
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".link"}
   (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55b331ce33da <unknown>
-#1 0x55b3316c5139 <unknown>
-#2 0x55b331719884 <unknown>
-#3 0x55b331719ad1 <unknown>
-#4 0x55b331764974 <unknown>
-#5 0x55b331761b5c <unknown>
-#6 0x55b33170ce4f <unknown>
-#7 0x55b33170dc31 <unknown>
-#8 0x55b331ca99f7 <unknown>
-#9 0x55b331ca8203 <unknown>
-#10 0x55b331c92f16 <unknown>
-#11 0x55b331ca8d9a <unknown>
-#12 0x55b331c7aeb0 <unknown>
-#13 0x55b331ccfd58 <unknown>
-#14 0x55b331ccfef5 <unknown>
-#15 0x55b331ce1f5e <unknown>
-#16 0x7f0435c9caa4 <unknown>
-#17 0x7f0435d29c6c <unknown>
+#0 0x55a01d6da3da <unknown>
+#1 0x55a01d0bc139 <unknown>
+#2 0x55a01d110884 <unknown>
+#3 0x55a01d110ad1 <unknown>
+#4 0x55a01d15b974 <unknown>
+#5 0x55a01d158b5c <unknown>
+#6 0x55a01d103e4f <unknown>
+#7 0x55a01d104c31 <unknown>
+#8 0x55a01d6a09f7 <unknown>
+#9 0x55a01d69f203 <unknown>
+#10 0x55a01d689f16 <unknown>
+#11 0x55a01d69fd9a <unknown>
+#12 0x55a01d671eb0 <unknown>
+#13 0x55a01d6c6d58 <unknown>
+#14 0x55a01d6c6ef5 <unknown>
+#15 0x55a01d6d8f5e <unknown>
+#16 0x7fd827c9caa4 <unknown>
+#17 0x7fd827d29c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".link"}
   (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55b331ce33da <unknown>
-#1 0x55b3316c5139 <unknown>
-#2 0x55b331719884 <unknown>
-#3 0x55b331719ad1 <unknown>
-#4 0x55b331764974 <unknown>
-#5 0x55b331761b5c <unknown>
-#6 0x55b33170ce4f <unknown>
-#7 0x55b33170dc31 <unknown>
-#8 0x55b331ca99f7 <unknown>
-#9 0x55b331ca8203 <unknown>
-#10 0x55b331c92f16 <unknown>
-#11 0x55b331ca8d9a <unknown>
-#12 0x55b331c7aeb0 <unknown>
-#13 0x55b331ccfd58 <unknown>
-#14 0x55b331ccfef5 <unknown>
-#15 0x55b331ce1f5e <unknown>
-#16 0x7f0435c9caa4 <unknown>
-#17 0x7f0435d29c6c <unknown>
+#0 0x55a01d6da3da <unknown>
+#1 0x55a01d0bc139 <unknown>
+#2 0x55a01d110884 <unknown>
+#3 0x55a01d110ad1 <unknown>
+#4 0x55a01d15b974 <unknown>
+#5 0x55a01d158b5c <unknown>
+#6 0x55a01d103e4f <unknown>
+#7 0x55a01d104c31 <unknown>
+#8 0x55a01d6a09f7 <unknown>
+#9 0x55a01d69f203 <unknown>
+#10 0x55a01d689f16 <unknown>
+#11 0x55a01d69fd9a <unknown>
+#12 0x55a01d671eb0 <unknown>
+#13 0x55a01d6c6d58 <unknown>
+#14 0x55a01d6c6ef5 <unknown>
+#15 0x55a01d6d8f5e <unknown>
+#16 0x7fd827c9caa4 <unknown>
+#17 0x7fd827d29c6c <unknown>
 
-Timestamp: 2026-07-07 04:35:46.712527
+Timestamp: 2026-07-07 05:29:09.554572
 
 Status: FAILED!
 Check: 2
@@ -54,55 +54,55 @@ Test: Create a style rule for the class selector `action` that sets the font siz
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".action"}
   (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55b331ce33da <unknown>
-#1 0x55b3316c5139 <unknown>
-#2 0x55b331719884 <unknown>
-#3 0x55b331719ad1 <unknown>
-#4 0x55b331764974 <unknown>
-#5 0x55b331761b5c <unknown>
-#6 0x55b33170ce4f <unknown>
-#7 0x55b33170dc31 <unknown>
-#8 0x55b331ca99f7 <unknown>
-#9 0x55b331ca8203 <unknown>
-#10 0x55b331c92f16 <unknown>
-#11 0x55b331ca8d9a <unknown>
-#12 0x55b331c7aeb0 <unknown>
-#13 0x55b331ccfd58 <unknown>
-#14 0x55b331ccfef5 <unknown>
-#15 0x55b331ce1f5e <unknown>
-#16 0x7f0435c9caa4 <unknown>
-#17 0x7f0435d29c6c <unknown>
+#0 0x55a01d6da3da <unknown>
+#1 0x55a01d0bc139 <unknown>
+#2 0x55a01d110884 <unknown>
+#3 0x55a01d110ad1 <unknown>
+#4 0x55a01d15b974 <unknown>
+#5 0x55a01d158b5c <unknown>
+#6 0x55a01d103e4f <unknown>
+#7 0x55a01d104c31 <unknown>
+#8 0x55a01d6a09f7 <unknown>
+#9 0x55a01d69f203 <unknown>
+#10 0x55a01d689f16 <unknown>
+#11 0x55a01d69fd9a <unknown>
+#12 0x55a01d671eb0 <unknown>
+#13 0x55a01d6c6d58 <unknown>
+#14 0x55a01d6c6ef5 <unknown>
+#15 0x55a01d6d8f5e <unknown>
+#16 0x7fd827c9caa4 <unknown>
+#17 0x7fd827d29c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".action"}
   (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55b331ce33da <unknown>
-#1 0x55b3316c5139 <unknown>
-#2 0x55b331719884 <unknown>
-#3 0x55b331719ad1 <unknown>
-#4 0x55b331764974 <unknown>
-#5 0x55b331761b5c <unknown>
-#6 0x55b33170ce4f <unknown>
-#7 0x55b33170dc31 <unknown>
-#8 0x55b331ca99f7 <unknown>
-#9 0x55b331ca8203 <unknown>
-#10 0x55b331c92f16 <unknown>
-#11 0x55b331ca8d9a <unknown>
-#12 0x55b331c7aeb0 <unknown>
-#13 0x55b331ccfd58 <unknown>
-#14 0x55b331ccfef5 <unknown>
-#15 0x55b331ce1f5e <unknown>
-#16 0x7f0435c9caa4 <unknown>
-#17 0x7f0435d29c6c <unknown>
+#0 0x55a01d6da3da <unknown>
+#1 0x55a01d0bc139 <unknown>
+#2 0x55a01d110884 <unknown>
+#3 0x55a01d110ad1 <unknown>
+#4 0x55a01d15b974 <unknown>
+#5 0x55a01d158b5c <unknown>
+#6 0x55a01d103e4f <unknown>
+#7 0x55a01d104c31 <unknown>
+#8 0x55a01d6a09f7 <unknown>
+#9 0x55a01d69f203 <unknown>
+#10 0x55a01d689f16 <unknown>
+#11 0x55a01d69fd9a <unknown>
+#12 0x55a01d671eb0 <unknown>
+#13 0x55a01d6c6d58 <unknown>
+#14 0x55a01d6c6ef5 <unknown>
+#15 0x55a01d6d8f5e <unknown>
+#16 0x7fd827c9caa4 <unknown>
+#17 0x7fd827d29c6c <unknown>
 
-Timestamp: 2026-07-07 04:35:47.754909
+Timestamp: 2026-07-07 05:29:10.595504
 
 Status: FAILED!
 Check: 3
 Test: Create a style rule for the id selector `contact` that aligns text center.
 Reason: Assertion failed: Text not aligned center
 Error : AssertionError - Text not aligned center
-Timestamp: 2026-07-07 04:35:47.885533
+Timestamp: 2026-07-07 05:29:10.695935
 
 Status: FAILED!
 Check: 4
@@ -110,54 +110,54 @@ Test: Add a class attribute with the value of `link` to the anchor element with 
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".link"}
   (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55b331ce33da <unknown>
-#1 0x55b3316c5139 <unknown>
-#2 0x55b331719884 <unknown>
-#3 0x55b331719ad1 <unknown>
-#4 0x55b331764974 <unknown>
-#5 0x55b331761b5c <unknown>
-#6 0x55b33170ce4f <unknown>
-#7 0x55b33170dc31 <unknown>
-#8 0x55b331ca99f7 <unknown>
-#9 0x55b331ca8203 <unknown>
-#10 0x55b331c92f16 <unknown>
-#11 0x55b331ca8d9a <unknown>
-#12 0x55b331c7aeb0 <unknown>
-#13 0x55b331ccfd58 <unknown>
-#14 0x55b331ccfef5 <unknown>
-#15 0x55b331ce1f5e <unknown>
-#16 0x7f0435c9caa4 <unknown>
-#17 0x7f0435d29c6c <unknown>
+#0 0x55a01d6da3da <unknown>
+#1 0x55a01d0bc139 <unknown>
+#2 0x55a01d110884 <unknown>
+#3 0x55a01d110ad1 <unknown>
+#4 0x55a01d15b974 <unknown>
+#5 0x55a01d158b5c <unknown>
+#6 0x55a01d103e4f <unknown>
+#7 0x55a01d104c31 <unknown>
+#8 0x55a01d6a09f7 <unknown>
+#9 0x55a01d69f203 <unknown>
+#10 0x55a01d689f16 <unknown>
+#11 0x55a01d69fd9a <unknown>
+#12 0x55a01d671eb0 <unknown>
+#13 0x55a01d6c6d58 <unknown>
+#14 0x55a01d6c6ef5 <unknown>
+#15 0x55a01d6d8f5e <unknown>
+#16 0x7fd827c9caa4 <unknown>
+#17 0x7fd827d29c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".link"}
   (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55b331ce33da <unknown>
-#1 0x55b3316c5139 <unknown>
-#2 0x55b331719884 <unknown>
-#3 0x55b331719ad1 <unknown>
-#4 0x55b331764974 <unknown>
-#5 0x55b331761b5c <unknown>
-#6 0x55b33170ce4f <unknown>
-#7 0x55b33170dc31 <unknown>
-#8 0x55b331ca99f7 <unknown>
-#9 0x55b331ca8203 <unknown>
-#10 0x55b331c92f16 <unknown>
-#11 0x55b331ca8d9a <unknown>
-#12 0x55b331c7aeb0 <unknown>
-#13 0x55b331ccfd58 <unknown>
-#14 0x55b331ccfef5 <unknown>
-#15 0x55b331ce1f5e <unknown>
-#16 0x7f0435c9caa4 <unknown>
-#17 0x7f0435d29c6c <unknown>
+#0 0x55a01d6da3da <unknown>
+#1 0x55a01d0bc139 <unknown>
+#2 0x55a01d110884 <unknown>
+#3 0x55a01d110ad1 <unknown>
+#4 0x55a01d15b974 <unknown>
+#5 0x55a01d158b5c <unknown>
+#6 0x55a01d103e4f <unknown>
+#7 0x55a01d104c31 <unknown>
+#8 0x55a01d6a09f7 <unknown>
+#9 0x55a01d69f203 <unknown>
+#10 0x55a01d689f16 <unknown>
+#11 0x55a01d69fd9a <unknown>
+#12 0x55a01d671eb0 <unknown>
+#13 0x55a01d6c6d58 <unknown>
+#14 0x55a01d6c6ef5 <unknown>
+#15 0x55a01d6d8f5e <unknown>
+#16 0x7fd827c9caa4 <unknown>
+#17 0x7fd827d29c6c <unknown>
 
-Timestamp: 2026-07-07 04:35:48.950866
+Timestamp: 2026-07-07 05:29:11.768088
 
 Status: PASSED!
 Check: 5
 Test: Remove the height and width attributes from the tortoise image (`img`) element.
 Reason: None
-Timestamp: 2026-07-07 04:35:48.992199
+Timestamp: 2026-07-07 05:29:11.814019
 
 Status: FAILED!
 Check: 6
@@ -165,45 +165,45 @@ Test: Add a class attribute with the value of `action` to the paragraph element 
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".action"}
   (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55b331ce33da <unknown>
-#1 0x55b3316c5139 <unknown>
-#2 0x55b331719884 <unknown>
-#3 0x55b331719ad1 <unknown>
-#4 0x55b331764974 <unknown>
-#5 0x55b331761b5c <unknown>
-#6 0x55b33170ce4f <unknown>
-#7 0x55b33170dc31 <unknown>
-#8 0x55b331ca99f7 <unknown>
-#9 0x55b331ca8203 <unknown>
-#10 0x55b331c92f16 <unknown>
-#11 0x55b331ca8d9a <unknown>
-#12 0x55b331c7aeb0 <unknown>
-#13 0x55b331ccfd58 <unknown>
-#14 0x55b331ccfef5 <unknown>
-#15 0x55b331ce1f5e <unknown>
-#16 0x7f0435c9caa4 <unknown>
-#17 0x7f0435d29c6c <unknown>
+#0 0x55a01d6da3da <unknown>
+#1 0x55a01d0bc139 <unknown>
+#2 0x55a01d110884 <unknown>
+#3 0x55a01d110ad1 <unknown>
+#4 0x55a01d15b974 <unknown>
+#5 0x55a01d158b5c <unknown>
+#6 0x55a01d103e4f <unknown>
+#7 0x55a01d104c31 <unknown>
+#8 0x55a01d6a09f7 <unknown>
+#9 0x55a01d69f203 <unknown>
+#10 0x55a01d689f16 <unknown>
+#11 0x55a01d69fd9a <unknown>
+#12 0x55a01d671eb0 <unknown>
+#13 0x55a01d6c6d58 <unknown>
+#14 0x55a01d6c6ef5 <unknown>
+#15 0x55a01d6d8f5e <unknown>
+#16 0x7fd827c9caa4 <unknown>
+#17 0x7fd827d29c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".action"}
   (Session info: chrome=149.0.7827.200); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55b331ce33da <unknown>
-#1 0x55b3316c5139 <unknown>
-#2 0x55b331719884 <unknown>
-#3 0x55b331719ad1 <unknown>
-#4 0x55b331764974 <unknown>
-#5 0x55b331761b5c <unknown>
-#6 0x55b33170ce4f <unknown>
-#7 0x55b33170dc31 <unknown>
-#8 0x55b331ca99f7 <unknown>
-#9 0x55b331ca8203 <unknown>
-#10 0x55b331c92f16 <unknown>
-#11 0x55b331ca8d9a <unknown>
-#12 0x55b331c7aeb0 <unknown>
-#13 0x55b331ccfd58 <unknown>
-#14 0x55b331ccfef5 <unknown>
-#15 0x55b331ce1f5e <unknown>
-#16 0x7f0435c9caa4 <unknown>
-#17 0x7f0435d29c6c <unknown>
+#0 0x55a01d6da3da <unknown>
+#1 0x55a01d0bc139 <unknown>
+#2 0x55a01d110884 <unknown>
+#3 0x55a01d110ad1 <unknown>
+#4 0x55a01d15b974 <unknown>
+#5 0x55a01d158b5c <unknown>
+#6 0x55a01d103e4f <unknown>
+#7 0x55a01d104c31 <unknown>
+#8 0x55a01d6a09f7 <unknown>
+#9 0x55a01d69f203 <unknown>
+#10 0x55a01d689f16 <unknown>
+#11 0x55a01d69fd9a <unknown>
+#12 0x55a01d671eb0 <unknown>
+#13 0x55a01d6c6d58 <unknown>
+#14 0x55a01d6c6ef5 <unknown>
+#15 0x55a01d6d8f5e <unknown>
+#16 0x7fd827c9caa4 <unknown>
+#17 0x7fd827d29c6c <unknown>
 
-Timestamp: 2026-07-07 04:35:50.019682
+Timestamp: 2026-07-07 05:29:12.842717
