@@ -1,14 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: In the *index.html* file, add a `class` attribute with a value of **round** to the image elements within the `main` element.
-Reason: Assertion failed: The `img` element within the `main` element does not contain a `class` attribute with a value of `round`.
-Error : AssertionError - The `img` element within the `main` element does not contain a `class` attribute with a value of `round`.
-Timestamp: 2026-07-07 23:33:58.401229
+Reason: None
+Timestamp: 2026-07-09 05:04:50.784288
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: In the *about.html* file, add a `class` attribute with a value of **round** to the image elements within the `main` element.
-Reason: Assertion failed: The `img` element within the `main` element does not contain a `class` attribute with a value of `round`.
-Error : AssertionError - The `img` element within the `main` element does not contain a `class` attribute with a value of `round`.
-Timestamp: 2026-07-07 23:33:58.402995
+Reason: None
+Timestamp: 2026-07-09 05:04:50.786096

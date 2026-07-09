@@ -1,14 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: remove the text, **Office:**, from the first paragraph element within the `main` `div` element.
-Reason: Assertion failed: The text, **Office:**, is still present in the *contact.html* file.
-Error : AssertionError - The text, **Office:**, is still present in the *contact.html* file.
-Timestamp: 2026-07-07 23:34:03.205766
+Reason: None
+Timestamp: 2026-07-09 05:04:54.594461
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Wrap the phone number within an anchor element that links to the phone number.
-Reason: Assertion failed: The paragraph element with the class `tel-link round` is missing from the *contact.html* file.
-Error : AssertionError - The paragraph element with the class `tel-link round` is missing from the *contact.html* file.
-Timestamp: 2026-07-07 23:34:03.207259
+Reason: None
+Timestamp: 2026-07-09 05:04:54.596093
