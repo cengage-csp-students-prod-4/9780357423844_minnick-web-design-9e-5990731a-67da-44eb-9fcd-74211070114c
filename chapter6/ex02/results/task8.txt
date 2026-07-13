@@ -1,28 +1,24 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Wrap all of the elements between the `body` tags within a single, parent `div` element with an `id` attribute of wrapper.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/index.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/index.html'
-Timestamp: 2026-07-13 20:08:46.810081
+Reason: None
+Timestamp: 2026-07-13 20:13:15.655781
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Wrap all of the elements between the `body` tags within a single, parent `div` element with an `id` attribute of wrapper.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
-Timestamp: 2026-07-13 20:08:46.810267
+Reason: None
+Timestamp: 2026-07-13 20:13:15.656731
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Wrap all of the elements between the `body` tags within a single, parent `div` element with an `id` attribute of wrapper.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
-Timestamp: 2026-07-13 20:08:46.810368
+Reason: None
+Timestamp: 2026-07-13 20:13:15.657581
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Wrap all of the elements between the `body` tags within a single, parent `div` element with an `id` attribute of wrapper.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/template.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/template.html'
-Timestamp: 2026-07-13 20:08:46.810448
+Reason: None
+Timestamp: 2026-07-13 20:13:15.658214

@@ -1,56 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: add a comment with the text, /* Desktop Viewport: Style rules for main content */. 
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/css/styles.css'
-Timestamp: 2026-07-13 20:08:45.030597
+Reason: None
+Timestamp: 2026-07-13 20:13:14.967344
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: add a style rule for the `#info ul` selector that sets the left margin to 5%.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#info ul"}
-  (Session info: chrome=150.0.7871.46); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55c2f5eda0fa <unknown>
-#1 0x55c2f58b3939 <unknown>
-#2 0x55c2f5908f52 <unknown>
-#3 0x55c2f59091a1 <unknown>
-#4 0x55c2f5954124 <unknown>
-#5 0x55c2f595130d <unknown>
-#6 0x55c2f58fc49f <unknown>
-#7 0x55c2f58fd301 <unknown>
-#8 0x55c2f5ea0167 <unknown>
-#9 0x55c2f5e9e948 <unknown>
-#10 0x55c2f5e89dc6 <unknown>
-#11 0x55c2f5e9f50a <unknown>
-#12 0x55c2f5e71e70 <unknown>
-#13 0x55c2f5ec5c38 <unknown>
-#14 0x55c2f5ec5dd5 <unknown>
-#15 0x55c2f5ed8cae <unknown>
-#16 0x7fd46ae9caa4 <unknown>
-#17 0x7fd46af29c6c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"#info ul"}
-  (Session info: chrome=150.0.7871.46); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55c2f5eda0fa <unknown>
-#1 0x55c2f58b3939 <unknown>
-#2 0x55c2f5908f52 <unknown>
-#3 0x55c2f59091a1 <unknown>
-#4 0x55c2f5954124 <unknown>
-#5 0x55c2f595130d <unknown>
-#6 0x55c2f58fc49f <unknown>
-#7 0x55c2f58fd301 <unknown>
-#8 0x55c2f5ea0167 <unknown>
-#9 0x55c2f5e9e948 <unknown>
-#10 0x55c2f5e89dc6 <unknown>
-#11 0x55c2f5e9f50a <unknown>
-#12 0x55c2f5e71e70 <unknown>
-#13 0x55c2f5ec5c38 <unknown>
-#14 0x55c2f5ec5dd5 <unknown>
-#15 0x55c2f5ed8cae <unknown>
-#16 0x7fd46ae9caa4 <unknown>
-#17 0x7fd46af29c6c <unknown>
-
-Timestamp: 2026-07-13 20:08:46.080094
+Reason: None
+Timestamp: 2026-07-13 20:13:15.034901
