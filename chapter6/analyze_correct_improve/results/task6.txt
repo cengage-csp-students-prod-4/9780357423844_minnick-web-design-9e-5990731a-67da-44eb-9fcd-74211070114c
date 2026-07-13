@@ -1,0 +1,14 @@
+
+Status: FAILED!
+Check: 1
+Test: add a new style rule for the `nav li a` selector that uses the `hover` `pseudo-class`. Set the color to   **#4424d6** 
+Reason: Assertion failed: The `color` value of `nav li a` was not `#4424d6`.
+Error : AssertionError - The `color` value of `nav li a` was not `#4424d6`.
+Timestamp: 2026-07-13 19:03:50.577493
+
+Status: FAILED!
+Check: 2
+Test: add a new style rule for the `nav li a` selector that uses the `hover` `pseudo-class`. Set the background color to **#e5e0fa**. 
+Reason: Assertion failed: The `background-color` value of `nav li a` was not `#e5e0fa`.
+Error : AssertionError - The `background-color` value of `nav li a` was not `#e5e0fa`.
+Timestamp: 2026-07-13 19:03:50.855702

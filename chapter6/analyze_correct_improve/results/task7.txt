@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 1
+Test: Add the class attribute `col-content` to the three `div` elements nested within the `main` element.
+Reason: Assertion failed: The `col-content` class attribute was not found in one or more of the `div` elements nested within the `main` element.
+Error : AssertionError - The `col-content` class attribute was not found in one or more of the `div` elements nested within the `main` element.
+Timestamp: 2026-07-13 19:03:51.456363

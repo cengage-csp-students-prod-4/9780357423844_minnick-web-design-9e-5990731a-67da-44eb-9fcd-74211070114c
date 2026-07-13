@@ -1,0 +1,28 @@
+
+Status: FAILED!
+Check: 1
+Test: Add a new comment with the text,   **Media Query for Large Desktop Viewport** below the last media query.
+Reason: Assertion failed: Could not find the comment with the text,   /* Media Query for Large Desktop Viewport** below the last media query. */
+Error : AssertionError - Could not find the comment with the text,   /* Media Query for Large Desktop Viewport** below the last media query. */
+Timestamp: 2026-07-13 19:03:56.538315
+
+Status: FAILED!
+Check: 2
+Test: Create a new media query that targets a screen with minimum width of  **1441px**.
+Reason: Assertion failed: The media query that targets a screen with minimum width of 1441px is not present.
+Error : AssertionError - The media query that targets a screen with minimum width of 1441px is not present.
+Timestamp: 2026-07-13 19:03:56.538688
+
+Status: FAILED!
+Check: 3
+Test: Inside the media query, create a style rule for the `#container` selector that sets the `width` to   **1440px**.
+Reason: Assertion failed: Could not find the style rule for the `#container` selector that sets the `width` to 1440px
+Error : AssertionError - Could not find the style rule for the `#container` selector that sets the `width` to 1440px
+Timestamp: 2026-07-13 19:03:56.538966
+
+Status: FAILED!
+Check: 4
+Test: Inside the media query, create a style rule for the `#container` selector that sets the top and bottom margins to **0px**, left and right margins to auto.
+Reason: Assertion failed: Could not find the style rule for the `#container` selector that sets the top and bottom margins to **0px**, left and right margins to auto.
+Error : AssertionError - Could not find the style rule for the `#container` selector that sets the top and bottom margins to **0px**, left and right margins to auto.
+Timestamp: 2026-07-13 19:03:56.539254
