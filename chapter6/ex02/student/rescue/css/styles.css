@@ -145,7 +145,7 @@ footer a {
 }
 
 /* Media Query for Large Desktop Viewports */
-@media screen and (min-width: 1921px) {
+@media screen and (min-width: 1921px), print {
     body {
         background: linear-gradient(#f6eee4, #78593a);
     }
