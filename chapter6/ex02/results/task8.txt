@@ -1,0 +1,28 @@
+
+Status: FAILED!
+Check: 1
+Test: Wrap all of the elements between the `body` tags within a single, parent `div` element with an `id` attribute of wrapper.
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/index.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/index.html'
+Timestamp: 2026-07-13 20:08:46.810081
+
+Status: FAILED!
+Check: 2
+Test: Wrap all of the elements between the `body` tags within a single, parent `div` element with an `id` attribute of wrapper.
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
+Timestamp: 2026-07-13 20:08:46.810267
+
+Status: FAILED!
+Check: 3
+Test: Wrap all of the elements between the `body` tags within a single, parent `div` element with an `id` attribute of wrapper.
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
+Timestamp: 2026-07-13 20:08:46.810368
+
+Status: FAILED!
+Check: 4
+Test: Wrap all of the elements between the `body` tags within a single, parent `div` element with an `id` attribute of wrapper.
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/template.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/template.html'
+Timestamp: 2026-07-13 20:08:46.810448
