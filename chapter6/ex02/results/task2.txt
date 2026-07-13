@@ -3,108 +3,22 @@ Status: PASSED!
 Check: 1
 Test: Add the following comment to the tablet media query:  Tablet Viewport: Show tab-desk class, hide `mobile` class 
 Reason: None
-Timestamp: 2026-07-13 20:13:07.514589
+Timestamp: 2026-07-13 21:27:48.058098
 
 Status: PASSED!
 Check: 2
 Test: Add the following comment to the tablet media query:  Tablet Viewport: Style rules for nav area
 Reason: None
-Timestamp: 2026-07-13 20:13:07.514851
+Timestamp: 2026-07-13 21:27:48.058467
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Add the style rule for the `tab-desk` class selector that sets the `display` to a block.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tab-desk"}
-  (Session info: chrome=150.0.7871.46); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55e0f17490fa <unknown>
-#1 0x55e0f1122939 <unknown>
-#2 0x55e0f1177f52 <unknown>
-#3 0x55e0f11781a1 <unknown>
-#4 0x55e0f11c3124 <unknown>
-#5 0x55e0f11c030d <unknown>
-#6 0x55e0f116b49f <unknown>
-#7 0x55e0f116c301 <unknown>
-#8 0x55e0f170f167 <unknown>
-#9 0x55e0f170d948 <unknown>
-#10 0x55e0f16f8dc6 <unknown>
-#11 0x55e0f170e50a <unknown>
-#12 0x55e0f16e0e70 <unknown>
-#13 0x55e0f1734c38 <unknown>
-#14 0x55e0f1734dd5 <unknown>
-#15 0x55e0f1747cae <unknown>
-#16 0x7f92d3a9caa4 <unknown>
-#17 0x7f92d3b29c6c <unknown>
+Reason: None
+Timestamp: 2026-07-13 21:27:48.232570
 
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tab-desk"}
-  (Session info: chrome=150.0.7871.46); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55e0f17490fa <unknown>
-#1 0x55e0f1122939 <unknown>
-#2 0x55e0f1177f52 <unknown>
-#3 0x55e0f11781a1 <unknown>
-#4 0x55e0f11c3124 <unknown>
-#5 0x55e0f11c030d <unknown>
-#6 0x55e0f116b49f <unknown>
-#7 0x55e0f116c301 <unknown>
-#8 0x55e0f170f167 <unknown>
-#9 0x55e0f170d948 <unknown>
-#10 0x55e0f16f8dc6 <unknown>
-#11 0x55e0f170e50a <unknown>
-#12 0x55e0f16e0e70 <unknown>
-#13 0x55e0f1734c38 <unknown>
-#14 0x55e0f1734dd5 <unknown>
-#15 0x55e0f1747cae <unknown>
-#16 0x7f92d3a9caa4 <unknown>
-#17 0x7f92d3b29c6c <unknown>
-
-Timestamp: 2026-07-13 20:13:08.536328
-
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Add the style rule for the `mobile` class selector that sets the `display` to none.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".mobile"}
-  (Session info: chrome=150.0.7871.46); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55e0f17490fa <unknown>
-#1 0x55e0f1122939 <unknown>
-#2 0x55e0f1177f52 <unknown>
-#3 0x55e0f11781a1 <unknown>
-#4 0x55e0f11c3124 <unknown>
-#5 0x55e0f11c030d <unknown>
-#6 0x55e0f116b49f <unknown>
-#7 0x55e0f116c301 <unknown>
-#8 0x55e0f170f167 <unknown>
-#9 0x55e0f170d948 <unknown>
-#10 0x55e0f16f8dc6 <unknown>
-#11 0x55e0f170e50a <unknown>
-#12 0x55e0f16e0e70 <unknown>
-#13 0x55e0f1734c38 <unknown>
-#14 0x55e0f1734dd5 <unknown>
-#15 0x55e0f1747cae <unknown>
-#16 0x7f92d3a9caa4 <unknown>
-#17 0x7f92d3b29c6c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".mobile"}
-  (Session info: chrome=150.0.7871.46); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55e0f17490fa <unknown>
-#1 0x55e0f1122939 <unknown>
-#2 0x55e0f1177f52 <unknown>
-#3 0x55e0f11781a1 <unknown>
-#4 0x55e0f11c3124 <unknown>
-#5 0x55e0f11c030d <unknown>
-#6 0x55e0f116b49f <unknown>
-#7 0x55e0f116c301 <unknown>
-#8 0x55e0f170f167 <unknown>
-#9 0x55e0f170d948 <unknown>
-#10 0x55e0f16f8dc6 <unknown>
-#11 0x55e0f170e50a <unknown>
-#12 0x55e0f16e0e70 <unknown>
-#13 0x55e0f1734c38 <unknown>
-#14 0x55e0f1734dd5 <unknown>
-#15 0x55e0f1747cae <unknown>
-#16 0x7f92d3a9caa4 <unknown>
-#17 0x7f92d3b29c6c <unknown>
-
-Timestamp: 2026-07-13 20:13:09.556791
+Reason: None
+Timestamp: 2026-07-13 21:27:48.247558
