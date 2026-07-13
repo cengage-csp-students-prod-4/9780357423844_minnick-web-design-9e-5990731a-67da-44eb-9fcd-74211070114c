@@ -1,147 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: add a new style rule for the `col-content` class selector that sets a `width` of   **30%**
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".col-content"}
-  (Session info: chrome=150.0.7871.46); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55cc5e9e70fa <unknown>
-#1 0x55cc5e3c0939 <unknown>
-#2 0x55cc5e415f52 <unknown>
-#3 0x55cc5e4161a1 <unknown>
-#4 0x55cc5e461124 <unknown>
-#5 0x55cc5e45e30d <unknown>
-#6 0x55cc5e40949f <unknown>
-#7 0x55cc5e40a301 <unknown>
-#8 0x55cc5e9ad167 <unknown>
-#9 0x55cc5e9ab948 <unknown>
-#10 0x55cc5e996dc6 <unknown>
-#11 0x55cc5e9ac50a <unknown>
-#12 0x55cc5e97ee70 <unknown>
-#13 0x55cc5e9d2c38 <unknown>
-#14 0x55cc5e9d2dd5 <unknown>
-#15 0x55cc5e9e5cae <unknown>
-#16 0x7fa64129caa4 <unknown>
-#17 0x7fa641329c6c <unknown>
+Reason: None
+Timestamp: 2026-07-13 19:26:23.821869
 
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".col-content"}
-  (Session info: chrome=150.0.7871.46); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55cc5e9e70fa <unknown>
-#1 0x55cc5e3c0939 <unknown>
-#2 0x55cc5e415f52 <unknown>
-#3 0x55cc5e4161a1 <unknown>
-#4 0x55cc5e461124 <unknown>
-#5 0x55cc5e45e30d <unknown>
-#6 0x55cc5e40949f <unknown>
-#7 0x55cc5e40a301 <unknown>
-#8 0x55cc5e9ad167 <unknown>
-#9 0x55cc5e9ab948 <unknown>
-#10 0x55cc5e996dc6 <unknown>
-#11 0x55cc5e9ac50a <unknown>
-#12 0x55cc5e97ee70 <unknown>
-#13 0x55cc5e9d2c38 <unknown>
-#14 0x55cc5e9d2dd5 <unknown>
-#15 0x55cc5e9e5cae <unknown>
-#16 0x7fa64129caa4 <unknown>
-#17 0x7fa641329c6c <unknown>
-
-Timestamp: 2026-07-13 19:03:53.867404
-
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: add a new style rule for the `col-content` class selector that sets a `float` to the **left**
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".col-content"}
-  (Session info: chrome=150.0.7871.46); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55cc5e9e70fa <unknown>
-#1 0x55cc5e3c0939 <unknown>
-#2 0x55cc5e415f52 <unknown>
-#3 0x55cc5e4161a1 <unknown>
-#4 0x55cc5e461124 <unknown>
-#5 0x55cc5e45e30d <unknown>
-#6 0x55cc5e40949f <unknown>
-#7 0x55cc5e40a301 <unknown>
-#8 0x55cc5e9ad167 <unknown>
-#9 0x55cc5e9ab948 <unknown>
-#10 0x55cc5e996dc6 <unknown>
-#11 0x55cc5e9ac50a <unknown>
-#12 0x55cc5e97ee70 <unknown>
-#13 0x55cc5e9d2c38 <unknown>
-#14 0x55cc5e9d2dd5 <unknown>
-#15 0x55cc5e9e5cae <unknown>
-#16 0x7fa64129caa4 <unknown>
-#17 0x7fa641329c6c <unknown>
+Reason: None
+Timestamp: 2026-07-13 19:26:23.840834
 
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".col-content"}
-  (Session info: chrome=150.0.7871.46); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55cc5e9e70fa <unknown>
-#1 0x55cc5e3c0939 <unknown>
-#2 0x55cc5e415f52 <unknown>
-#3 0x55cc5e4161a1 <unknown>
-#4 0x55cc5e461124 <unknown>
-#5 0x55cc5e45e30d <unknown>
-#6 0x55cc5e40949f <unknown>
-#7 0x55cc5e40a301 <unknown>
-#8 0x55cc5e9ad167 <unknown>
-#9 0x55cc5e9ab948 <unknown>
-#10 0x55cc5e996dc6 <unknown>
-#11 0x55cc5e9ac50a <unknown>
-#12 0x55cc5e97ee70 <unknown>
-#13 0x55cc5e9d2c38 <unknown>
-#14 0x55cc5e9d2dd5 <unknown>
-#15 0x55cc5e9e5cae <unknown>
-#16 0x7fa64129caa4 <unknown>
-#17 0x7fa641329c6c <unknown>
-
-Timestamp: 2026-07-13 19:03:54.896714
-
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: add a new style rule for the `col-content` class selector that sets `padding` of **1.5%** on all sides.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".col-content"}
-  (Session info: chrome=150.0.7871.46); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55cc5e9e70fa <unknown>
-#1 0x55cc5e3c0939 <unknown>
-#2 0x55cc5e415f52 <unknown>
-#3 0x55cc5e4161a1 <unknown>
-#4 0x55cc5e461124 <unknown>
-#5 0x55cc5e45e30d <unknown>
-#6 0x55cc5e40949f <unknown>
-#7 0x55cc5e40a301 <unknown>
-#8 0x55cc5e9ad167 <unknown>
-#9 0x55cc5e9ab948 <unknown>
-#10 0x55cc5e996dc6 <unknown>
-#11 0x55cc5e9ac50a <unknown>
-#12 0x55cc5e97ee70 <unknown>
-#13 0x55cc5e9d2c38 <unknown>
-#14 0x55cc5e9d2dd5 <unknown>
-#15 0x55cc5e9e5cae <unknown>
-#16 0x7fa64129caa4 <unknown>
-#17 0x7fa641329c6c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".col-content"}
-  (Session info: chrome=150.0.7871.46); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55cc5e9e70fa <unknown>
-#1 0x55cc5e3c0939 <unknown>
-#2 0x55cc5e415f52 <unknown>
-#3 0x55cc5e4161a1 <unknown>
-#4 0x55cc5e461124 <unknown>
-#5 0x55cc5e45e30d <unknown>
-#6 0x55cc5e40949f <unknown>
-#7 0x55cc5e40a301 <unknown>
-#8 0x55cc5e9ad167 <unknown>
-#9 0x55cc5e9ab948 <unknown>
-#10 0x55cc5e996dc6 <unknown>
-#11 0x55cc5e9ac50a <unknown>
-#12 0x55cc5e97ee70 <unknown>
-#13 0x55cc5e9d2c38 <unknown>
-#14 0x55cc5e9d2dd5 <unknown>
-#15 0x55cc5e9e5cae <unknown>
-#16 0x7fa64129caa4 <unknown>
-#17 0x7fa641329c6c <unknown>
-
-Timestamp: 2026-07-13 19:03:55.924050
+Reason: None
+Timestamp: 2026-07-13 19:26:23.859901
