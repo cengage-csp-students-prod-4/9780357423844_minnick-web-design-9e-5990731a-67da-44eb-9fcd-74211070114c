@@ -77,7 +77,7 @@ footer {
 }
 
 /* Media Query for Tablet Viewport */
-@media screen and (min-width: 550px), print {
+@media screen and (min-width: 470px), print {
     
     /* Tablet Viewport: Show tablet-desktop content */
     .tablet-desktop {
