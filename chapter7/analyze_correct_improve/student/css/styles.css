@@ -1,5 +1,5 @@
 /*
-    Author:
+    Author: Firstname Lastname
     Date: 07/14/2026
     File Name: styles.css
 */
@@ -89,12 +89,12 @@ footer {
     
     .grid {
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: auto auto auto;
         grid-gap: 20px;
     }
 
     aside {
-        grid-column: span 3;
+        grid-column: 1 / span 3;
     }
 
 }
