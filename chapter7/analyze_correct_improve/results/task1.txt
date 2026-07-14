@@ -1,37 +1,36 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Update the comment with your name, file name, and today's date
-Reason: Assertion failed: Name not found in comment in index.html (Student Name: Firstname Lastname)
-Error : AssertionError - Name not found in comment in index.html (Student Name: Firstname Lastname)
-Timestamp: 2026-07-14 06:29:40.518400
+Reason: None
+Timestamp: 2026-07-14 06:51:26.732004
 
 Status: PASSED!
 Check: 2
 Test: File name added into the comment
 Reason: None
-Timestamp: 2026-07-14 06:29:40.521504
+Timestamp: 2026-07-14 06:51:26.735219
 
 Status: PASSED!
 Check: 3
 Test: Update the comment with today's date
 Reason: None
-Timestamp: 2026-07-14 06:29:40.524052
+Timestamp: 2026-07-14 06:51:26.738341
 
 Status: PASSED!
 Check: 4
 Test: Update the comment with your name in styles.css
 Reason: None
-Timestamp: 2026-07-14 06:29:40.524255
+Timestamp: 2026-07-14 06:51:26.738526
 
 Status: PASSED!
 Check: 5
 Test: File name added into the comment
 Reason: None
-Timestamp: 2026-07-14 06:29:40.524371
+Timestamp: 2026-07-14 06:51:26.738666
 
 Status: PASSED!
 Check: 6
 Test: Update the comment with today's date
 Reason: None
-Timestamp: 2026-07-14 06:29:40.524440
+Timestamp: 2026-07-14 06:51:26.738750
