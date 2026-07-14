@@ -1,7 +1,7 @@
 /*
 Author: Mike Dahlin
 File Name: styles.css
-Date: 07/06/2026
+Date: 07/14/2026
 */
 
 /* CSS Reset */
@@ -144,7 +144,7 @@ footer a {
     /* Tablet Viewport: Style rules for grid class and aside */
     .grid {
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: auto auto;
         grid-gap: 10px;
     }
 
@@ -177,7 +177,7 @@ footer a {
 
     /* Desktop Viewport: Style rules for grid class and aside */
     .grid {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: auto auto auto;
         grid-gap: 30px;
     }
 
@@ -204,7 +204,7 @@ footer a {
 
     /* Large Desktop Viewport: Style rules for grid class and aside */
     .grid {
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: auto auto auto auto;
     }
 
     aside {
