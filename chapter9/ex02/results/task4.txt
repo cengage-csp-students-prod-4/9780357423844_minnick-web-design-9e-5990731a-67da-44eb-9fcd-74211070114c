@@ -1,20 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Captions track element added to the video element
-Reason: Assertion failed: The fallback text <p> element is not provided for legacy browsers that do not support the video element
-Error : AssertionError - The fallback text <p> element is not provided for legacy browsers that do not support the video element
-Timestamp: 2026-07-16 21:58:27.708580
+Reason: None
+Timestamp: 2026-07-16 22:02:53.724672
 
 Status: PASSED!
 Check: 2
 Test: Descriptions track element added to the video element
 Reason: None
-Timestamp: 2026-07-16 21:58:27.709842
+Timestamp: 2026-07-16 22:02:53.726650
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Fallback text provided for legacy browsers that do not support the video element
-Reason: Assertion failed: The fallback text is not provided for legacy browsers that do not support the video element
-Error : AssertionError - The fallback text is not provided for legacy browsers that do not support the video element
-Timestamp: 2026-07-16 21:58:27.710916
+Reason: None
+Timestamp: 2026-07-16 22:02:53.728405
