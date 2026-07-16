@@ -1,0 +1,18 @@
+
+Status: PASSED!
+Check: 1
+Test: Video element with the controls and poster attributes added after the paragraph element
+Reason: None
+Timestamp: 2026-07-16 21:58:26.693962
+
+Status: PASSED!
+Check: 2
+Test: Source elements added to the video element with the correct src and type attributes
+Reason: None
+Timestamp: 2026-07-16 21:58:26.695229
+
+Status: PASSED!
+Check: 3
+Test: Source elements added to the video element with the correct src and type attributes
+Reason: None
+Timestamp: 2026-07-16 21:58:26.696384
