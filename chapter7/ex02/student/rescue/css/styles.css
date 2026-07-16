@@ -118,7 +118,6 @@ footer a {
 
 /* Media Query for Tablet Viewport */
 @media screen and (min-width: 620px), print {
-    /* Tablet Viewport: Show tab-desk class, hide mobile class */
     .tab-desk {
         display: block;
     }
@@ -127,7 +126,6 @@ footer a {
         display: none;
     }
 
-    /* Tablet Viewport: Style rules for nav area */
     nav li {
         border-top: none;
         display: inline-block;
@@ -138,7 +136,6 @@ footer a {
         padding: 0.5em;
     }
 
-    /* Tablet Viewport: Style rules for grid class and aside */
     .grid {
         display: grid;
         grid-template-columns: auto auto;
@@ -152,7 +149,6 @@ footer a {
 
 /* Media Query for Desktop Viewport */
 @media screen and (min-width: 1000px), print {
-    /* Desktop Viewport: Style rules for nav area */
     nav li {
         font-size: 1.5em;
     }
@@ -167,12 +163,10 @@ footer a {
         opacity: 0.5;
     }
 
-    /* Desktop Viewport: Style rules for main content */
     #info ul {
         margin-left: 5%;
     }
 
-    /* Desktop Viewport: Style rules for grid class and aside */
     .grid {
         grid-template-columns: auto auto auto;
         grid-gap: 30px;
@@ -199,7 +193,6 @@ footer a {
         background-color: #f6eee4;
     }
 
-    /* Large Desktop Viewport: Style rules for grid class and aside */
     .grid {
         grid-template-columns: auto auto auto auto;
     }
