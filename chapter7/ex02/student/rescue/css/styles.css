@@ -141,8 +141,11 @@ footer a {
     /* Tablet Viewport: Style rules for grid class and aside */
     .grid {
         display: grid;
-        grid-template-columns: auto auto;
         grid-gap: 10px;
+    }
+    
+    .grid {
+        grid-template-columns: auto auto;
     }
 
     aside {
@@ -174,8 +177,11 @@ footer a {
 
     /* Desktop Viewport: Style rules for grid class and aside */
     .grid {
-        grid-template-columns: auto auto auto;
         grid-gap: 30px;
+    }
+    
+    .grid {
+        grid-template-columns: auto auto auto;
     }
 
     aside {
@@ -208,4 +214,4 @@ footer a {
         grid-column: 1 / span 4;
         font-size: 3em;
     }
-}S
+}
