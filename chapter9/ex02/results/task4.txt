@@ -3,16 +3,16 @@ Status: PASSED!
 Check: 1
 Test: Captions track element added to the video element
 Reason: None
-Timestamp: 2026-07-16 22:02:53.724672
+Timestamp: 2026-07-16 22:05:20.472735
 
 Status: PASSED!
 Check: 2
 Test: Descriptions track element added to the video element
 Reason: None
-Timestamp: 2026-07-16 22:02:53.726650
+Timestamp: 2026-07-16 22:05:20.474716
 
 Status: PASSED!
 Check: 3
 Test: Fallback text provided for legacy browsers that do not support the video element
 Reason: None
-Timestamp: 2026-07-16 22:02:53.728405
+Timestamp: 2026-07-16 22:05:20.476500
