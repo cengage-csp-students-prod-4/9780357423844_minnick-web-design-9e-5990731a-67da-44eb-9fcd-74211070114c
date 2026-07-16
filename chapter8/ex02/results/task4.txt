@@ -1,0 +1,54 @@
+
+Status: PASSED!
+Check: 1
+Test: Nest a `table` within the `partner` `div` element with the caption text "Sponsorship Opportunities" inside the table
+Reason: None
+Timestamp: 2026-07-16 08:05:37.824138
+
+Status: PASSED!
+Check: 2
+Test: Insert seven rows within the table
+Reason: None
+Timestamp: 2026-07-16 08:05:37.826767
+
+Status: PASSED!
+Check: 3
+Test: Row 1 Contains the correct data
+Reason: None
+Timestamp: 2026-07-16 08:05:37.829366
+
+Status: PASSED!
+Check: 4
+Test: Row 2 Contains the correct data
+Reason: None
+Timestamp: 2026-07-16 08:05:37.831903
+
+Status: PASSED!
+Check: 5
+Test: Row 3 Contains the correct data
+Reason: None
+Timestamp: 2026-07-16 08:05:37.834432
+
+Status: PASSED!
+Check: 6
+Test: Row 4 Contains the correct data
+Reason: None
+Timestamp: 2026-07-16 08:05:37.836991
+
+Status: PASSED!
+Check: 7
+Test: Row 5 Contains the correct data
+Reason: None
+Timestamp: 2026-07-16 08:05:37.839541
+
+Status: PASSED!
+Check: 8
+Test: Row 6 Contains the correct data
+Reason: None
+Timestamp: 2026-07-16 08:05:37.842137
+
+Status: PASSED!
+Check: 9
+Test: Row 7 Contains the correct data
+Reason: None
+Timestamp: 2026-07-16 08:05:37.844736
