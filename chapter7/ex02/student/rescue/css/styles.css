@@ -117,7 +117,7 @@ footer a {
 }
 
 /* Media Query for Tablet Viewport */
-@media screen and (min-width: 620px) {
+@media screen and (min-width: 620px), print {
     /* Tablet Viewport: Show tab-desk class, hide mobile class */
     .tab-desk {
         display: block;
@@ -140,12 +140,12 @@ footer a {
 
     /* Tablet Viewport: Style rules for grid class and aside */
     .grid {
+        grid-template-columns: auto auto;
+    }
+
+    .grid {
         display: grid;
         grid-gap: 10px;
-    }
-    
-    .grid {
-        grid-template-columns: auto auto;
     }
 
     aside {
@@ -154,7 +154,7 @@ footer a {
 }
 
 /* Media Query for Desktop Viewport */
-@media screen and (min-width: 1000px) {
+@media screen and (min-width: 1000px), print {
     /* Desktop Viewport: Style rules for nav area */
     nav li {
         font-size: 1.5em;
@@ -177,11 +177,11 @@ footer a {
 
     /* Desktop Viewport: Style rules for grid class and aside */
     .grid {
-        grid-gap: 30px;
-    }
-    
-    .grid {
         grid-template-columns: auto auto auto;
+    }
+
+    .grid {
+        grid-gap: 30px;
     }
 
     aside {
@@ -191,7 +191,7 @@ footer a {
 }
 
 /* Media Query for Large Desktop Viewports */
-@media screen and (min-width: 1921px) {
+@media screen and (min-width: 1921px), print {
     body {
         background: linear-gradient(#f6eee4, #78593a);
     }
