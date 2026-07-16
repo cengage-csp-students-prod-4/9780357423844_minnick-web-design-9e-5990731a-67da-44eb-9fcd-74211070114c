@@ -140,11 +140,8 @@ footer a {
 
     /* Tablet Viewport: Style rules for grid class and aside */
     .grid {
-        grid-template-columns: auto auto;
-    }
-
-    .grid {
         display: grid;
+        grid-template-columns: auto auto;
         grid-gap: 10px;
     }
 
@@ -178,9 +175,6 @@ footer a {
     /* Desktop Viewport: Style rules for grid class and aside */
     .grid {
         grid-template-columns: auto auto auto;
-    }
-
-    .grid {
         grid-gap: 30px;
     }
 
