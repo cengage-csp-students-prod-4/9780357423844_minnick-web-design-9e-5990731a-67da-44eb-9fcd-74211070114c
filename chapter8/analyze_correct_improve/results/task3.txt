@@ -1,0 +1,18 @@
+
+Status: PASSED!
+Check: 1
+Test: The form elements are wrapped in two separate fieldset elements
+Reason: None
+Timestamp: 2026-07-16 06:17:56.096641
+
+Status: PASSED!
+Check: 2
+Test: The first fieldset element contains the first 4 input elements
+Reason: None
+Timestamp: 2026-07-16 06:17:56.097817
+
+Status: PASSED!
+Check: 3
+Test: The second fieldset element contains the last 4 input elements
+Reason: None
+Timestamp: 2026-07-16 06:17:56.098777

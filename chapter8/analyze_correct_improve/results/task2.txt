@@ -1,0 +1,6 @@
+
+Status: PASSED!
+Check: 1
+Test: All input controls in the form have a label element with a for attribute
+Reason: None
+Timestamp: 2026-07-16 06:17:54.990766
