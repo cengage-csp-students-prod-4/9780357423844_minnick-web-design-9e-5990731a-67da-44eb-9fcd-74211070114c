@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 1
+Test: Add the global variables above the comment for the menu function
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/scripts/script.js'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/scripts/script.js'
+Timestamp: 2026-07-17 03:19:40.533668

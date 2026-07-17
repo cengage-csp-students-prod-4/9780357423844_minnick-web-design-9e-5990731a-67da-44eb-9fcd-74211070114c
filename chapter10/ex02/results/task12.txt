@@ -1,0 +1,14 @@
+
+Status: FAILED!
+Check: 1
+Test: Create a div element below the questions div with an id attribute of answer
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/faqs.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/faqs.html'
+Timestamp: 2026-07-17 03:19:39.456595
+
+Status: FAILED!
+Check: 2
+Test: Nest the h2 and p elements within the answer div
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/faqs.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/faqs.html'
+Timestamp: 2026-07-17 03:19:39.456804
