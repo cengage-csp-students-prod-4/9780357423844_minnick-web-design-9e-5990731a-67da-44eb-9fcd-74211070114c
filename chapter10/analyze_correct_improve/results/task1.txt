@@ -3,29 +3,29 @@ Status: PASSED!
 Check: 1
 Test: "Name" added to comment section of the file index.html
 Reason: 'Student Name: firstname lastname' was found in the program output.None
-Timestamp: 2026-07-17 02:04:03.946701
+Timestamp: 2026-07-17 02:07:45.389124
 
 Status: PASSED!
 Check: 2
 Test: "Date" added to comment section of the file index.html
 Reason: 'Date: MM/DD/YYYY' was found in the program output.None
-Timestamp: 2026-07-17 02:04:03.946964
+Timestamp: 2026-07-17 02:07:45.389337
 
 Status: PASSED!
 Check: 3
 Test: Title added to the page
 Reason: None
-Timestamp: 2026-07-17 02:04:03.948392
+Timestamp: 2026-07-17 02:07:45.390713
 
 Status: FAILED!
 Check: 4
 Test: Student name added to the paragraph element within the footer element
 Reason: Assertion failed: Could not find the student name in the paragraph element (Student's name: firstname lastname)
 Error : AssertionError - Could not find the student name in the paragraph element (Student's name: firstname lastname)
-Timestamp: 2026-07-17 02:04:03.949728
+Timestamp: 2026-07-17 02:07:45.392021
 
 Status: PASSED!
 Check: 5
 Test: File linked to styles.css
 Reason: None
-Timestamp: 2026-07-17 02:04:03.950918
+Timestamp: 2026-07-17 02:07:45.393196
