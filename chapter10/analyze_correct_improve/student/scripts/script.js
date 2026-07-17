@@ -1,7 +1,7 @@
 /*
     Student Name: Mike Dahlin
     File Name: script.js
-    Date: 07/17/26
+    Date: 07/17/2026
 */
 
 //Global variables
