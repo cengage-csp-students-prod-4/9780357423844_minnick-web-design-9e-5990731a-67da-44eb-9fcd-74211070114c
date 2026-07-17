@@ -3,16 +3,16 @@ Status: PASSED!
 Check: 1
 Test: Global variables added to the file scripts/script.js
 Reason: 'var figElement = document.getElementById("placeholder");' was found in the program output.None
-Timestamp: 2026-07-17 01:15:15.695174
+Timestamp: 2026-07-17 02:57:07.660871
 
 Status: PASSED!
 Check: 2
 Test: Global variables added to the file scripts/script.js
 Reason: 'var imgSource = document.getElementById("image");' was found in the program output.None
-Timestamp: 2026-07-17 01:15:15.695427
+Timestamp: 2026-07-17 02:57:07.661158
 
 Status: PASSED!
 Check: 3
 Test: Global variables added to the file scripts/script.js
 Reason: 'var figCap = document.querySelector("figcaption");' was found in the program output.None
-Timestamp: 2026-07-17 01:15:15.695638
+Timestamp: 2026-07-17 02:57:07.661365
