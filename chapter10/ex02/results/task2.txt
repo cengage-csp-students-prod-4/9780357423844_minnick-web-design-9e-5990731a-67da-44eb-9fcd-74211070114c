@@ -1,42 +1,36 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Apply the `tab-desk` class to the `nav` element below the `header` element in index.html.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/index.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/index.html'
-Timestamp: 2026-07-17 03:19:21.614129
+Reason: None
+Timestamp: 2026-07-17 03:31:44.233619
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Apply the `tab-desk` class to the `nav` element below the `header` element in about.html.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
-Timestamp: 2026-07-17 03:19:21.614334
+Reason: None
+Timestamp: 2026-07-17 03:31:44.235426
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Apply the `tab-desk` class to the `nav` element below the `header` element in contact.html.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
-Timestamp: 2026-07-17 03:19:21.614462
+Reason: None
+Timestamp: 2026-07-17 03:31:44.236893
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Apply the `tab-desk` class to the `nav` element below the `header` element in gallery.html.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/gallery.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/gallery.html'
-Timestamp: 2026-07-17 03:19:21.614607
+Reason: None
+Timestamp: 2026-07-17 03:31:44.239008
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: Apply the `tab-desk` class to the `nav` element below the `header` element in partnership.html.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/partnership.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/partnership.html'
-Timestamp: 2026-07-17 03:19:21.614713
+Reason: None
+Timestamp: 2026-07-17 03:31:44.241245
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: Apply the `tab-desk` class to the `nav` element below the `header` element in template.html.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/template.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/template.html'
-Timestamp: 2026-07-17 03:19:21.614821
+Reason: None
+Timestamp: 2026-07-17 03:31:44.242470

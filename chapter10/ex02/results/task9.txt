@@ -1,14 +1,30 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Create a new webpage faqs.html using template.html
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/faqs.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/faqs.html'
-Timestamp: 2026-07-17 03:19:35.274966
+Reason: None
+Timestamp: 2026-07-17 03:31:51.890010
 
-Status: FAILED!
+Status: PASSED!
+Check: 2
+Test: "Name" added to comment section of the file rescue/faqs.html
+Reason: 'Student Name: firstname lastname' was found in the program output.None
+Timestamp: 2026-07-17 03:31:51.890261
+
+Status: PASSED!
+Check: 3
+Test: "Filename" added to comment section of the file rescue/faqs.html
+Reason: 'File Name: faqs.html' was found in the program output.None
+Timestamp: 2026-07-17 03:31:51.890407
+
+Status: PASSED!
+Check: 4
+Test: "Date" added to comment section of the file rescue/faqs.html
+Reason: 'Date: MM/DD/YYYY' was found in the program output.None
+Timestamp: 2026-07-17 03:31:51.890547
+
+Status: PASSED!
 Check: 5
 Test: Update the title in faqs.html to display Wild Rescues: FAQs
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/faqs.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/faqs.html'
-Timestamp: 2026-07-17 03:19:35.275368
+Reason: None
+Timestamp: 2026-07-17 03:31:51.891918

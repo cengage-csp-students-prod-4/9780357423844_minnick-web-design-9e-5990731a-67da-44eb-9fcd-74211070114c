@@ -1,42 +1,54 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add the following comment and `nav` element above the `header` element to index.html.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/index.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/index.html'
-Timestamp: 2026-07-17 03:19:19.374498
+Reason: None
+Timestamp: 2026-07-17 03:31:32.757590
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add the following comment and `nav` element above the `header` element to about.html.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
-Timestamp: 2026-07-17 03:19:19.374730
+Reason: None
+Timestamp: 2026-07-17 03:31:32.759697
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Add the following comment and `nav` element above the `header` element to contact.html.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
-Timestamp: 2026-07-17 03:19:19.374865
+Reason: None
+Timestamp: 2026-07-17 03:31:32.761165
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Add the following comment and `nav` element above the `header` element to gallery.html.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/gallery.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/gallery.html'
-Timestamp: 2026-07-17 03:19:19.374981
+Reason: None
+Timestamp: 2026-07-17 03:31:32.763180
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: Add the following comment and `nav` element above the `header` element to partnership.html.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/partnership.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/partnership.html'
-Timestamp: 2026-07-17 03:19:19.375084
+Reason: None
+Timestamp: 2026-07-17 03:31:32.765358
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: Add the following comment and `nav` element above the `header` element to template.html.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/template.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/template.html'
-Timestamp: 2026-07-17 03:19:19.375186
+Reason: None
+Timestamp: 2026-07-17 03:31:32.766553
+
+Status: PASSED!
+Check: 2
+Test: "Name" added to comment section of the file music/scripts/script.js
+Reason: 'Student Name: firstname lastname' was found in the program output.None
+Timestamp: 2026-07-17 03:31:48.683010
+
+Status: PASSED!
+Check: 3
+Test: "Filename" added to comment section of the file music/scripts/script.js
+Reason: 'File Name: script.js' was found in the program output.None
+Timestamp: 2026-07-17 03:31:48.683168
+
+Status: PASSED!
+Check: 4
+Test: "Date" added to comment section of the file music/scripts/script.js
+Reason: 'Date: MM/DD/YYYY' was found in the program output.None
+Timestamp: 2026-07-17 03:31:48.683309
