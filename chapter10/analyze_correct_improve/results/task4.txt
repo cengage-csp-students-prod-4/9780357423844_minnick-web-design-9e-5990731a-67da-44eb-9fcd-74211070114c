@@ -1,0 +1,18 @@
+
+Status: PASSED!
+Check: 1
+Test: Global variables added to the file scripts/script.js
+Reason: 'var figElement = document.getElementById("placeholder");' was found in the program output.None
+Timestamp: 2026-07-17 01:09:39.126963
+
+Status: PASSED!
+Check: 2
+Test: Global variables added to the file scripts/script.js
+Reason: 'var imgSource = document.getElementById("image");' was found in the program output.None
+Timestamp: 2026-07-17 01:09:39.127185
+
+Status: PASSED!
+Check: 3
+Test: Global variables added to the file scripts/script.js
+Reason: 'var figCap = document.querySelector("figcaption");' was found in the program output.None
+Timestamp: 2026-07-17 01:09:39.127366
