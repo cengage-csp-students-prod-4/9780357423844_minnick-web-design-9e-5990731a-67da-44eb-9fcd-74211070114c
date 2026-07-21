@@ -14,6 +14,7 @@ body, header, nav, main, footer, img, h1, h3, aside, figure, figcaption {
 /* Style rules for body and images */
 body {
     background-color: #f6eee4;
+    font-family: Verdana, Arial, sans-serif;
 }
 
 img {
@@ -68,7 +69,7 @@ nav li a {
 .nav-icon div { 
     height: 40px;
     width: 40px;
-    color: #2a1f14; 
+    color: #f6eee4; 
 }
 
 /* Style rules for main content */
@@ -105,6 +106,70 @@ main ul {
 
 #contact {
     text-align: center;
+}
+
+.tel-link {
+    color: #4d3319;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.round {
+    border-radius: 10px;
+    background-color: #2a1f14;
+    color: #f6eee4;
+    padding: 2%;
+    display: inline-block;
+}
+
+.btn {
+    border: none;
+    margin: 0 auto;
+    display: block;
+    padding: 3%;
+    background-color: #2a1f14;
+    font-size: 1.25em;
+    border-radius: 10px;
+    color: #f6eee4;
+    cursor: pointer;
+}
+
+.form-grid {
+    display: grid;
+    grid-template-columns: auto;
+    grid-gap: 10px;
+}
+
+.form-grid fieldset {
+    border: 1px solid #2a1f14;
+    border-radius: 5px;
+    padding: 2%;
+}
+
+.form-grid legend {
+    font-size: 1.25em;
+    font-weight: bold;
+}
+
+.form-grid label {
+    display: block;
+    padding-top: 2%;
+    font-weight: bold;
+}
+
+.form-grid input[type="radio"] {
+    margin-right: 1%;
+}
+
+.form-grid input[type="text"],
+.form-grid input[type="email"],
+.form-grid input[type="tel"],
+.form-grid textarea {
+    width: 100%;
+    padding: 1%;
+    border: 1px solid #2a1f14;
+    border-radius: 5px;
+    font-family: Verdana, Arial, sans-serif;
 }
 
 /* Style rules for aside, figure, and figcaption */

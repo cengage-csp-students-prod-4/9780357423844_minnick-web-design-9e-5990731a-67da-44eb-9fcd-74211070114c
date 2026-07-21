@@ -49,8 +49,8 @@
             <main>
                 <div id="contact">
                     <h2>You can reach us at:</h2>
-                    <p class="tel-link round mobile">Office: (814) 555-8989</p>
-                    <p class="tab-desk">(814) 555-8989</p>
+                    <a href="tel:+18145558989" class="tel-link round mobile">Office: (814) 555-8989</a>
+                    <a href="tel:+18145558989" class="tel-link tab-desk">(814) 555-8989</a>
                     <p>Email: <a href="mailto:contact@wildrescues.net" class="link">contact@wildrescues.net</a></p>
                     <p>Address: <a href="https://goo.gl/maps/BTJzjc2tALd4RDWA8" class="link" target="_blank">8989 Rescue Drive, Ocala, FL 34471</a></p>
                 </div>
@@ -59,9 +59,26 @@
                     <form class="form-grid"><!-- Start Form -->
                         <fieldset>
                             <legend>Contact Information</legend>
+                            <label for="fName">First Name</label>
+                            <input type="text" name="fName" id="fName">
+                            <label for="lName">Last Name</label>
+                            <input type="text" name="lName" id="lName">
+                            <label for="email">Email</label>
+                            <input type="email" name="email" id="email">
+                            <label for="phone">Phone</label>
+                            <input type="tel" name="phone" id="phone">
                         </fieldset>
                         <fieldset>
                             <legend>Additional Information</legend>
+                            <label>How did you hear about us?</label>
+                            <input type="radio" name="hear" id="web" value="web">
+                            <label for="web" style="display:inline;">Web</label>
+                            <input type="radio" name="hear" id="social" value="social">
+                            <label for="social" style="display:inline;">Social Media</label>
+                            <input type="radio" name="hear" id="friend" value="friend">
+                            <label for="friend" style="display:inline;">Friend</label>
+                            <label for="comments">Comments</label>
+                            <textarea name="comments" id="comments" rows="4"></textarea>
                         </fieldset>
                         <input type="submit" id="submit" value="Submit" class="btn">
                     </form>
